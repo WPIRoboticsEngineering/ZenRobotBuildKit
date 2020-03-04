@@ -1,0 +1,12 @@
+{
+  "metric": {
+    "boltHoleDiam": 5,
+    "gridDistance":6.25,
+    "boltVitaminSize":"M5"
+  },
+  "imperial": {
+    "boltHoleDiam": 4.2,
+    "gridDistance":6.35,
+    "boltVitaminSize":"8#32"
+  }
+}
