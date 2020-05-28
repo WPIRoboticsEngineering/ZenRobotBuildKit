@@ -1,2 +1,2 @@
 # ZenRobotBuildKit
-Zen robotics build kit is a less vexing build system.
+Zen robotics build kit is a robot build system.
