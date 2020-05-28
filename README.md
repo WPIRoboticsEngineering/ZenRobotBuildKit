@@ -11,6 +11,10 @@ Zen robotics build kit is a robot build system.
 ## Processor
 
   1 x SparkFun Thing Plus - ESP32 WROOM https://www.sparkfun.com/products/15663
+  
+  1 x Wire Kit https://www.amazon.com/REXQualis-Breadboard-Assorted-Prototyping-Circuits/dp/B081H2JQRV
+  
+  1 x Bread Board 
 
 ## Chassis
 
