@@ -33,5 +33,5 @@ Zen robotics build kit is a robot build system.
   1 x #1429 Pololu Wheel 70×8mm Pair - White = 4.75
 ## Sensors
   
-  1 x line sensor https://ridewithgps.com/routes/32786770
+  1 x line sensor
   
