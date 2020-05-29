@@ -15,6 +15,10 @@ Zen robotics build kit is a robot build system.
   1 x Wire Kit https://www.amazon.com/REXQualis-Breadboard-Assorted-Prototyping-Circuits/dp/B081H2JQRV
   
   1 x Bread Board 
+  
+  1 x Header kithttps://www.sparkfun.com/products/15187
+  
+  
 
 ## Chassis
 
@@ -35,6 +39,9 @@ Zen robotics build kit is a robot build system.
   1 x #3531 Romi Chassis Ball Caster Kit - Pink = 2.95
   
   1 x #1429 Pololu Wheel 70×8mm Pair - White = 4.75
+  
+  4 x female header https://www.pololu.com/product/1016
+  
 ## Sensors
   
   1 x line sensor
