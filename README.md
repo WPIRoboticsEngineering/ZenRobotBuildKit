@@ -6,7 +6,7 @@ Zen robotics build kit is a robot build system.
 
 ## Consumables
 
-  1 x pack od zipties
+  1 x pack of zipties
   
   1 x roll double sided tape Foam tape
 
@@ -20,7 +20,7 @@ Zen robotics build kit is a robot build system.
   
   1 x Wire Kit https://www.amazon.com/REXQualis-Breadboard-Assorted-Prototyping-Circuits/dp/B081H2JQRV
   
-  1 x Bread Board 
+  1 x Bread Board https://www.sparkfun.com/products/12002
   
   1 x Header kit https://www.sparkfun.com/products/15187
   
@@ -62,7 +62,7 @@ Zen robotics build kit is a robot build system.
   
 ## Sensors
   
-  2 x line sensor
+  2 x line sensor https://www.sparkfun.com/products/9454
   
-  2 x ultrasonic
+  2 x ultrasonic https://www.pololu.com/product/1605
   
