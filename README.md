@@ -44,5 +44,7 @@ Zen robotics build kit is a robot build system.
   
 ## Sensors
   
-  1 x line sensor
+  2 x line sensor
+  
+  2 x ultrasonic
   
