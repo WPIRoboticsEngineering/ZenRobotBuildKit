@@ -12,7 +12,7 @@ Zen robotics build kit is a robot build system.
 
 ## Tools
 
-  ~~1 x USB Logic Analyser  https://www.sparkfun.com/products/15033 
+  ~~1 x USB Logic Analyser  https://www.sparkfun.com/products/15033~~
 
 ## Processor
 
