@@ -42,6 +42,10 @@ Zen robotics build kit is a robot build system.
   
   4 x female header https://www.pololu.com/product/1016
   
+## Lifting arm
+
+  1 x Servo with feedback https://www.pololu.com/product/3436
+  
 ## Sensors
   
   2 x line sensor
