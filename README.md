@@ -4,9 +4,15 @@ Zen robotics build kit is a robot build system.
 
 # BOM Source
 
+## Consumables
+
+  1 x pack od zipties
+  
+  1 x roll double sided tape Foam tape
+
 ## Tools
 
-  1 x USB Logic Analyser  https://www.sparkfun.com/products/15033 
+  ~~1 x USB Logic Analyser  https://www.sparkfun.com/products/15033 
 
 ## Processor
 
@@ -41,6 +47,14 @@ Zen robotics build kit is a robot build system.
   1 x #1429 Pololu Wheel 70×8mm Pair - White = 4.75
   
   4 x female header https://www.pololu.com/product/1016
+  
+  1 x line sensor standoff set https://www.pololu.com/product/1943
+  
+  1 x 2-65 nut set https://www.pololu.com/product/1067
+  
+  1 x 2-56 x 1/4"long https://www.pololu.com/product/1955 
+  
+  
   
 ## Lifting arm
 
