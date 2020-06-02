@@ -9,6 +9,10 @@ Zen robotics build kit is a robot build system.
   1 x pack of zipties https://www.amazon.com/Cable-Nylon-Locking-Pieces-Black/dp/B07VRSQ6YL
   
   1 x roll double sided tape Foam tape https://www.amazon.com/Scotch-Mounting-0-75-inch-350-inches-110-LongDC/dp/B009NP1OBC
+  
+  1 x Wire Kit https://www.amazon.com/REXQualis-Breadboard-Assorted-Prototyping-Circuits/dp/B081H2JQRV
+  
+  1 x Wire spool kit https://www.amazon.com/StrivedayTM-Solid-Electric-gauge-26-2ft/dp/B077HRKYB1
 
 ## Tools
 
@@ -19,10 +23,6 @@ Zen robotics build kit is a robot build system.
 ## Processor
 
   1 x SparkFun Thing Plus - ESP32 WROOM https://www.sparkfun.com/products/15663
-  
-  1 x Wire Kit https://www.amazon.com/REXQualis-Breadboard-Assorted-Prototyping-Circuits/dp/B081H2JQRV
-  
-  1 x Wire spool kit https://www.amazon.com/StrivedayTM-Solid-Electric-gauge-26-2ft/dp/B077HRKYB1
   
   1 x Bread Board https://www.sparkfun.com/products/12002
   
