@@ -6,9 +6,9 @@ Zen robotics build kit is a robot build system.
 
 ## Consumables
 
-  1 x pack of zipties
+  1 x pack of zipties https://www.amazon.com/Cable-Nylon-Locking-Pieces-Black/dp/B07VRSQ6YL
   
-  1 x roll double sided tape Foam tape
+  1 x roll double sided tape Foam tape https://www.amazon.com/Scotch-Mounting-0-75-inch-350-inches-110-LongDC/dp/B009NP1OBC
 
 ## Tools
 
