@@ -13,6 +13,8 @@ Zen robotics build kit is a robot build system.
 ## Tools
 
   ~~1 x USB Logic Analyser  https://www.sparkfun.com/products/15033~~
+  
+  1 x wire stripper https://www.pololu.com/product/1923
 
 ## Processor
 
@@ -62,7 +64,7 @@ Zen robotics build kit is a robot build system.
   
 ## Sensors
   
-  2 x line sensor https://www.sparkfun.com/products/9454
+  2 x line sensor https://www.pololu.com/product/4241
   
   2 x ultrasonic https://www.pololu.com/product/1605
   
