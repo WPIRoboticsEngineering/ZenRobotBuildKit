@@ -24,6 +24,8 @@ Zen robotics build kit is a robot build system.
 
   1 x SparkFun Thing Plus - ESP32 WROOM https://www.sparkfun.com/products/15663
   
+ OR https://www.adafruit.com/product/3619 
+  
   1 x Bread Board https://www.sparkfun.com/products/12002
   
   1 x Header kit https://www.sparkfun.com/products/15187
