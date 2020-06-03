@@ -70,5 +70,7 @@ Zen robotics build kit is a robot build system.
   
   2 x line sensor https://www.pololu.com/product/4241
   
-  2 x ultrasonic https://www.pololu.com/product/1605
+  2 x ultrasonic https://www.sparkfun.com/products/15569
+  
+  2 x ultrasonic brackets https://www.robotshop.com/en/jsumo-ultrasonic-sensor-bracket.html
   
