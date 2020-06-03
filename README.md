@@ -13,6 +13,10 @@ Zen robotics build kit is a robot build system.
   1 x Wire Kit https://www.amazon.com/REXQualis-Breadboard-Assorted-Prototyping-Circuits/dp/B081H2JQRV
   
   1 x Wire spool kit https://www.amazon.com/StrivedayTM-Solid-Electric-gauge-26-2ft/dp/B077HRKYB1
+  
+  or
+  
+  https://www.mouser.com/ProductDetail/Adafruit/1311?qs=GURawfaeGuBbUKgxUfZ%252BxQ%3D%3D
 
 ## Tools
 
