@@ -36,7 +36,7 @@ Zen robotics build kit is a robot build system.
   
   1 x Male- Male double sided pin headers https://www.pololu.com/product/1065
   
-  
+  1 x USB cable https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
 
 ## Chassis
 
