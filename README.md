@@ -30,6 +30,8 @@ Zen robotics build kit is a robot build system.
   
   1 x Header kit https://www.sparkfun.com/products/15187
   
+  1 x Male- Male double sided pin headers https://www.pololu.com/product/1065
+  
   
 
 ## Chassis
