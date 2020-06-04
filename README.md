@@ -48,11 +48,11 @@ Zen robotics build kit is a robot build system.
   
   1 x #3560 Romi Chassis Expansion Plate - Black = 4.75
   
-  1 x #3531 Romi Chassis Ball Caster Kit - Pink = 2.95 (color unimportant)
+  1 x #3531 Romi Chassis Ball Caster Kit = 2.95 (color unimportant)
   
   4 x female header https://www.pololu.com/product/1016 (what are these for?)
   
-  1 x #1944 Aluminum Standoff: 1" Length, 2-56 Thread: https://www.pololu.com/product/1944
+  1 x #1944 Aluminum Standoff: 1", 2-56 thread (4-pack): https://www.pololu.com/product/1944
   
   1 x #1943 Aluminum Standoff: 3/4", 2-56 thread (4-pack): https://www.pololu.com/product/1943
 
@@ -75,7 +75,7 @@ Zen robotics build kit is a robot build system.
 
   1 x photoresistor: https://www.sparkfun.com/products/9088
   
-  2 x 2.2kOhm resistor
+  2 x 2.2 kOhm resistor
   
   ~~2 x ultrasonic brackets https://www.robotshop.com/en/jsumo-ultrasonic-sensor-bracket.html~~
   
