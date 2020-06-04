@@ -32,7 +32,7 @@ Zen robotics build kit is a robot build system.
   
  OR https://www.adafruit.com/product/3619 
   
-  1 x Bread Board https://www.pololu.com/product/4000 (specifically this one, as it has mounting holes)
+  1 x Breadboard https://www.pololu.com/product/4000 (specifically this one, as it has mounting holes)
   
   1 x Header kit https://www.sparkfun.com/products/15187
   
@@ -72,6 +72,10 @@ Zen robotics build kit is a robot build system.
   2 x line sensor https://www.pololu.com/product/4241
   
   2 x ultrasonic https://www.sparkfun.com/products/15569
+
+  1 x photoresistor: https://www.sparkfun.com/products/9088
+  
+  2 x 2.2kOhm resistor
   
   ~~2 x ultrasonic brackets https://www.robotshop.com/en/jsumo-ultrasonic-sensor-bracket.html~~
   
