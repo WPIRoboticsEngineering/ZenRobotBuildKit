@@ -27,9 +27,7 @@ Zen robotics build kit is a robot build system.
   
   1 x Wire spool kit https://www.amazon.com/StrivedayTM-Solid-Electric-gauge-26-2ft/dp/B077HRKYB1
   
-  or
-  
-  https://www.mouser.com/ProductDetail/Adafruit/1311?qs=GURawfaeGuBbUKgxUfZ%252BxQ%3D%3D
+  ```alternate   https://www.mouser.com/ProductDetail/Adafruit/1311?qs=GURawfaeGuBbUKgxUfZ%252BxQ%3D%3D```
 
 
 
@@ -83,6 +81,4 @@ Zen robotics build kit is a robot build system.
   2 x photoresistor: https://www.sparkfun.com/products/9088
   
   2 x 2.2 kOhm resistor
-  
-  ~~2 x ultrasonic brackets https://www.robotshop.com/en/jsumo-ultrasonic-sensor-bracket.html~~
-  
+    
