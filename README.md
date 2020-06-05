@@ -21,8 +21,6 @@ Zen robotics build kit is a robot build system.
   https://www.mouser.com/ProductDetail/Adafruit/1311?qs=GURawfaeGuBbUKgxUfZ%252BxQ%3D%3D
 
 ## Tools
-
-  ~~1 x USB Logic Analyser  https://www.sparkfun.com/products/15033~~
   
   1 x wire stripper https://www.pololu.com/product/1923
 
@@ -30,7 +28,7 @@ Zen robotics build kit is a robot build system.
 
   1 x SparkFun Thing Plus - ESP32 WROOM https://www.sparkfun.com/products/15663
   
- OR https://www.adafruit.com/product/3619 
+```Alternate https://www.adafruit.com/product/3619 ```
   
   1 x Breadboard https://www.pololu.com/product/4000 (specifically this one, as it has mounting holes)
   
