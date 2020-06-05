@@ -8,11 +8,11 @@ Zen robotics build kit is a robot build system.
   
   1 x wire stripper https://www.pololu.com/product/1923
   
-  1 x soldering iron https://www.amazon.com/dp/B000I40HFQ
+  1 x soldering iron https://www.jameco.com/z/VTSS5U-Velleman-50-Watt-Low-Cost-Soldering-Station-374-896F_2130626.html
   
-  1 x spool of solder https://www.amazon.com/WYCTIN-Solder-Electrical-Soldering-0-11lbs/dp/B071G1J3W6
+  1 x spool of solder https://www.sparkfun.com/products/9325
   
-  1 x spool of solder wick https://www.amazon.com/NTE-Electronics-SW02-10-No-Clean-Blue-098/dp/B0195UVWJ8
+  1 x spool of solder wick https://www.sparkfun.com/products/9327
   
 
 ## Consumables Kit
