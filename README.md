@@ -69,11 +69,11 @@ Zen robotics build kit is a robot build system.
   
 ## Sensors
   
-  2 x line sensor https://www.pololu.com/product/4241
+  1 x line sensor array (6 x 8mm): https://www.pololu.com/product/4246
   
-  2 x ultrasonic https://www.sparkfun.com/products/15569
+  1 x ultrasonic https://www.sparkfun.com/products/15569
 
-  1 x photoresistor: https://www.sparkfun.com/products/9088
+  2 x photoresistor: https://www.sparkfun.com/products/9088
   
   2 x 2.2 kOhm resistor
   
