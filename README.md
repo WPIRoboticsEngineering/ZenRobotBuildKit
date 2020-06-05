@@ -4,7 +4,18 @@ Zen robotics build kit is a robot build system.
 
 # BOM Source
 
-## Consumables
+## Tools Kit
+  
+  1 x wire stripper https://www.pololu.com/product/1923
+  
+  1 x soldering iron https://www.amazon.com/dp/B000I40HFQ
+  
+  1 x spool of solder https://www.amazon.com/WYCTIN-Solder-Electrical-Soldering-0-11lbs/dp/B071G1J3W6
+  
+  1 x spool of solder wick https://www.amazon.com/NTE-Electronics-SW02-10-No-Clean-Blue-098/dp/B0195UVWJ8
+  
+
+## Consumables Kit
 
   Note that students only need a portion of the items here: e.g., they don't each need a wire spool kit -- they just need enough wire to wire their 'bot.
 
@@ -20,11 +31,9 @@ Zen robotics build kit is a robot build system.
   
   https://www.mouser.com/ProductDetail/Adafruit/1311?qs=GURawfaeGuBbUKgxUfZ%252BxQ%3D%3D
 
-## Tools
-  
-  1 x wire stripper https://www.pololu.com/product/1923
 
-## Processor
+
+## Processor Kit
 
   1 x SparkFun Thing Plus - ESP32 WROOM https://www.sparkfun.com/products/15663
   
@@ -33,12 +42,13 @@ Zen robotics build kit is a robot build system.
   1 x Breadboard https://www.pololu.com/product/4000 (specifically this one, as it has mounting holes)
   
   1 x Header kit https://www.sparkfun.com/products/15187
+  ```Only needed if we go with the SparkFun Thing Plus```
   
   1 x Male- Male double sided pin headers https://www.pololu.com/product/1065
   
   1 x USB cable https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
 
-## Chassis
+## Chassis Kit
 
   1 x #3543 Motor Driver and Power Distribution Board for Romi Chassis = 19.95
   
@@ -59,13 +69,10 @@ Zen robotics build kit is a robot build system.
   1 x 2-65 nut set https://www.pololu.com/product/1067
   
   1 x 2-56 x 1/4"long https://www.pololu.com/product/1955   
-  
-  
-## Lifting arm
 
   1 x Servo with feedback https://www.pololu.com/product/3436
   
-## Sensors
+## Sensors Kit
   
   1 x line sensor array (6 x 8mm): https://www.pololu.com/product/4246
   
