@@ -38,6 +38,27 @@ With your 4 battery contacts in place, place the driver board on top:
 
 <img src="photos/4Contacts.jpg" width="300">
 
+Solder the battery contacts
+
+<img src="photos/solderBatt.jpg" width="300">
+
+Add the motor Clips to both sides
+
+<img src="photos/motorClip.jpg" width="300">
+
+Slide the motor in, being careful to get the motor pins into the receiving socket you soldered earlier:
+
+<img src="photos/motorAllignment.jpg" width="300">
+
+Once aligned, fully seat the motor
+
+<img src="photos/motorSeat.jpg" width="300">
+
+Do the same for the other motor
+
+<img src="photos/bothMotorsDone.jpg" width="300">
+
+
 
 # 2) Cut the Encoder Pull Up Trace
 
@@ -49,6 +70,7 @@ VPU=VREG
 
 Needs to be cut with a sharp razor or X-Acto. 
 
+<img src="photos/cutTrace.jpg" width="300">
 
 
 # 3) Add Long Wires to Driver Board
@@ -78,17 +100,20 @@ The pins that need wires are as follows:
  * ERA ( right encoder A)
  * ERB ( right encoder B)
  
- # 4) Wire up the ESP32
+<img src="photos/solderWires.jpg" width="300">
+ 
+# 4) Wire up the ESP32
  
  * VPU   to 3v3
  * VCC MD to VUSB
  * GND to GND on the Esp32
  * ~SLP   to GND to disable, floating to enable, start with it disabled
+ 
 ## STOP and verify this is correct
 
-Use yout multi-meter to check that:
+Use your multi-meter to check that:
 
-1) 5v and Gnd are NOT conneceted
+1) 5v and Gnd are NOT  connected
 1) 5v and 3.3v are NOT connected (NOTE if they ARE, you likely missed step 2, or didn't cut it fully)
 1) 3.3v and GND are NOT connected
 1) GND on the driver board and GND on the ESP32 ARE connected
@@ -119,11 +144,13 @@ Plug the USB back in. Make sure the Motor ~SLP pin is in GND.
 
 Open Arduino IDE and program the example 
 
-```RBE1001Lib/MotorTest```
+```
+RBE1001Lib/MotorTest
+```
 
-Open the serial moniter after programming. 
+Open the serial monitor after programming. 
 
-After programming, take ~SLP and connect it to an open breadboard rail. One motor shoulds start moving.
+After programming, take ~SLP and connect it to an open breadboard rail. One motor should start moving.
 
 Change the example to check the other motor. 
  
