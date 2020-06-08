@@ -60,7 +60,7 @@ The pins that need wires are as follows:
 Use yout multi-meter to check that:
 
 1) 5v and Gnd are NOT conneceted
-1) 5v and 3.3v are NOT connected
+1) 5v and 3.3v are NOT connected (NOTE if they ARE, you likely missed step 2, or didn't cut it fully)
 1) 3.3v and GND are NOT connected
 1) GND on the driver board and GND on the ESP32 ARE connected
 
