@@ -14,6 +14,8 @@ Zen robotics build kit is a robot build system.
   
   1 x wire stripper https://www.pololu.com/product/1923
   
+  1 x Digital Multi Meter https://www.sparkfun.com/products/12966
+  
   1 x soldering iron https://www.jameco.com/z/VTSS5U-Velleman-50-Watt-Low-Cost-Soldering-Station-374-896F_2130626.html
   
   1 x spool of solder https://www.sparkfun.com/products/9325
