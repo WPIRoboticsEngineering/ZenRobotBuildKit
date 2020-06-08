@@ -43,10 +43,10 @@ The pins that need wires are as follows:
  * Left PWM to GPIO 5/SCK
  * Left DIR  to GPIO 4/ A5
  * Right PWM to GPIO 15 
- * Right DIR to GPIO 
- * GND (Ground reference)
- * ELA ( Left encoder A)
- * ELB ( Left encoder B)
- * ERA ( right encoder A)
- * ERB ( right encoder B)
+ * Right DIR to GPIO 24/ A1
+ * GND to GND on the Esp32
+ * ELA to GPIO 19/MISO
+ * ELB to GPIO 18/MOSI
+ * ERA to GPIO 17/TX1
+ * ERB to GPIO 16/RX1
  
