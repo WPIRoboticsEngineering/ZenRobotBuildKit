@@ -1,3 +1,9 @@
+# 0) Start with power disconnected
+
+Do not put in batteries until the instructions say to. Do not skip around, do these in order. 
+
+DO not plug in the USB until the instructions say to. 
+
 # 1) Assemble the Chassis Electronics
 
 We will be wireing this module:
@@ -70,7 +76,7 @@ Use yout multi-meter to check that:
  
 # 5) Power up and test Voltages
 
-Plug in the Esp32 USB cable
+Plug in the Esp32 USB cable and add the batteries. 
 
 1) Check 5v pin is at 5v +-0.1v
 1) Check 3.3v pin is at 3.3v +-0.1v
@@ -78,6 +84,7 @@ Plug in the Esp32 USB cable
 1) Check 5v and 3.3v again
  
 # 6) Program the Esp32 with the Motor Test Example
+
 
 Plug the USB back in. Make sure the Motor ~SLP pin is in GND. 
 
