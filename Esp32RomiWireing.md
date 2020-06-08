@@ -1,4 +1,4 @@
-![image](photos/whole-kit-layout.jpg)
+<img src="photos/whole-kit-layout.jpg" width="300">
 
 # 0) Start with power disconnected
 
@@ -14,11 +14,30 @@ https://www.pololu.com/product/3543
 
 to our ESP32. 
 
-First, solder the headers for the motors to the Driver Board
+First, place the headers closest to the edge of the board in the encoder holes
 
-![image](photos/solderEncoderHeaders.jpg)
+<img src="photos/headerForEncoder.jpg" width="300">
 
-![image](photos/headerForEncoder.jpg)
+Then solder the headers for the motors to the Driver Board
+
+<img src="photos/solderEncoderHeaders.jpg" width="300">
+
+Put the dual-battery contacts into the chassis:
+
+<img src="photos/contacts.jpg" width="300">
+
+Flip the Romi over and add the single contacts, Squeeze the spring to fit it into its hole:
+
+<img src="photos/squeeze.jpg" width="300">
+
+Add the positive termials
+
+<img src="photos/bothContact.jpg" width="300">
+
+With your 4 battery contacts in place, place the driver board on top:
+
+<img src="photos/4Contacts.jpg" width="300">
+
 
 # 2) Cut the Encoder Pull Up Trace
 
