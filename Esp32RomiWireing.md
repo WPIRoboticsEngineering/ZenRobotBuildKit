@@ -14,6 +14,12 @@ https://www.pololu.com/product/3543
 
 to our ESP32. 
 
+First, solder the headers for the motors to the Driver Board
+
+![image](photos/solderEncoderHeaders.jpg)
+
+![image](photos/headerForEncoder.jpg)
+
 # 2) Cut the Encoder Pull Up Trace
 
 The trace
