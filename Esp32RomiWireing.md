@@ -1,4 +1,4 @@
-# Assemble the Chassis Electronics
+# 1) Assemble the Chassis Electronics
 
 We will be wireing this module:
 
@@ -6,9 +6,17 @@ https://www.pololu.com/product/3543
 
 to our ESP32. 
 
-# Cut the Encoder Pull Up Trace
+# 2) Cut the Encoder Pull Up Trace
 
-# Add Long Wires to Driver Board
+The trace
+
+```VPU=VREG```
+
+Needs to be cut with a sharp razor or X-Acto. 
+
+
+
+# 3) Add Long Wires to Driver Board
 
 All wires should be 100 to 200 mm long. 
 
@@ -35,7 +43,7 @@ The pins that need wires are as follows:
  * ERA ( right encoder A)
  * ERB ( right encoder B)
  
- # Wire up the ESP32
+ # 4) Wire up the ESP32
  
  * VPU   to 3v3
  * VCC MD to VUSB
