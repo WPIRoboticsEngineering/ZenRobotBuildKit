@@ -1,3 +1,5 @@
+![image](photos/whole-kit-layout.jpg  | width=100 )
+
 # 0) Start with power disconnected
 
 Do not put in batteries until the instructions say to. Do not skip around, do these in order. 
@@ -16,7 +18,9 @@ to our ESP32.
 
 The trace
 
-```VPU=VREG```
+```
+VPU=VREG
+```
 
 Needs to be cut with a sharp razor or X-Acto. 
 
