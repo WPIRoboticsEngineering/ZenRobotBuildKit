@@ -1,4 +1,4 @@
-![image](photos/whole-kit-layout.jpg  | width=100 )
+![image](photos/whole-kit-layout.jpg)
 
 # 0) Start with power disconnected
 
