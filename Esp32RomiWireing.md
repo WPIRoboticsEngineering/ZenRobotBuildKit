@@ -119,12 +119,12 @@ Use your multi-meter to check that:
 1) GND on the driver board and GND on the ESP32 ARE connected
 
 ## Add the GPIO signals
- * Left PWM to GPIO 5/SCK
+ * Left PWM to GPIO 13
  * Left DIR  to GPIO 4/ A5
- * Right PWM to GPIO 15 
- * Right DIR to GPIO 24/ A1
- * ELA to GPIO 19/MISO
- * ELB to GPIO 18/MOSI
+ * Right PWM to GPIO 12 
+ * Right DIR to GPIO 25/A1
+ * ELA to GPIO 27
+ * ELB to GPIO 26/A0
  * ERA to GPIO 17/TX1
  * ERB to GPIO 16/RX1
  
