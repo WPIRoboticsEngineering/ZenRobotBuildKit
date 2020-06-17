@@ -58,9 +58,9 @@ Zen robotics build kit is a robot build system.
 
 ## Chassis Kit
 
+  1 x #3660 Romi Chassis Kit/Encoders
+
   1 x #3543 Motor Driver and Power Distribution Board for Romi Chassis = 19.95
-  
-  1 x #3500 (other colors OK) Romi Chassis Kit -- *Pololu has said they can swap in motors w/encoders*
   
   1 x #3560 Romi Chassis Expansion Plate - Black = 4.75
   
