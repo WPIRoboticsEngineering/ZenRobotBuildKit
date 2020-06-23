@@ -1,6 +1,6 @@
 ﻿# ZenRobotBuildKit
 
-Zen robotics build kit is a robot build system.
+Zen robotics build kit is a robot build system. Here is the BOm and Cad models.
 
 # Wireing
 
