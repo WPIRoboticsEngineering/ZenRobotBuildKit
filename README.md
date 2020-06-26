@@ -2,7 +2,7 @@
 
 Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
 
-# Wireing
+# Wiring
 
 1) [Wire the Chassis](Esp32RomiWireing.md)
 
@@ -81,7 +81,7 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
 
   1 x #2009 Aluminum Standoff: 1 1/2", 2-56 thread (4-pack): https://www.pololu.com/product/2009
   
-  1 x 2-65 nut set https://www.pololu.com/product/1067
+  1 x 2-56 nut set https://www.pololu.com/product/1067
   
   1 x 2-56 x 1/4"long https://www.pololu.com/product/1955   
 
