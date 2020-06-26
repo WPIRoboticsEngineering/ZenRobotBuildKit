@@ -6,7 +6,7 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
 
 1) [Wire the Chassis](Esp32RomiWireing.md)
 
-1) Wire the Sensors
+1) [Wire the Sensors](wireSensors.md)
 
 # BOM Source
 
@@ -58,7 +58,14 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
 
 ## Chassis Kit
 
-  1 x #3660 Romi Chassis Kit/Encoders
+  1 x #3660 Romi Chassis Kit/Encoders (BULK special purchase)
+  ```
+  Low volume alternate source 
+  
+   1 x chassis kit https://www.pololu.com/product/3501
+   1 x Romi Encoder Pair https://www.pololu.com/product/3542
+  
+  ```
 
   1 x #3543 Motor Driver and Power Distribution Board for Romi Chassis = 19.95
   
