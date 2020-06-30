@@ -24,6 +24,8 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
   
   1 x spool of solder wick https://www.sparkfun.com/products/9327
   
+  1 x spring scale https://www.amazon.com/SEOH-Spring-Tubular-Calibrated-Newtons/dp/B008AJUY0Y
+  
 
 ## Consumables Kit
 
@@ -86,6 +88,12 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
   1 x 2-56 x 1/4"long https://www.pololu.com/product/1955   
 
   1 x Servo with feedback https://www.pololu.com/product/3436
+  
+  1 x 2-56x 1" https://www.mcmaster.com/90272A086
+  
+  2 x 2-56x 3/4" https://www.mcmaster.com/90272A084
+  
+  8 x 2-56x 5/8" https://www.mcmaster.com/90272A083
   
 ## Sensors Kit
   
