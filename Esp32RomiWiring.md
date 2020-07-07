@@ -60,20 +60,8 @@ Do the same for the other motor
 
 
 
-# 2) Cut the Encoder Pull Up Trace
 
-The trace
-
-```
-VPU=VREG
-```
-
-Needs to be cut with a sharp razor or X-Acto. 
-
-<img src="photos/cutTrace.jpg" width="300">
-
-
-# 3) Add Long Wires to Driver Board
+# 2) Add Long Wires to Driver Board
 
 All wires should be 100 to 200 mm long. 
 
@@ -87,7 +75,6 @@ Be sure to use sane color codes.
  
 The pins that need wires are as follows:
 
- * VPU    ( the pull up high side that needs to go to 3.3v)
  * VCC MD (Our 5v regulated output from the batteries)
  * ~SLP   (to disable the motors)
  * Left PWM (PWM setting the speed of the left motor)
@@ -101,6 +88,16 @@ The pins that need wires are as follows:
  * ERB ( right encoder B)
  
 <img src="photos/solderWires.jpg" width="300">
+
+# 3) Add Line Sensor and Breadboard
+
+<img src="photos/1.jpg" width="300">
+<img src="photos/2.jpg" width="300">
+<img src="photos/3.jpg" width="300">
+<img src="photos/4.jpg" width="300">
+<img src="photos/5.jpg" width="300">
+<img src="photos/6.jpg" width="300">
+
  
 # 4) Wire up the ESP32
  
@@ -109,7 +106,15 @@ The pins that need wires are as follows:
  * GND to GND on the Esp32
  * ~SLP   to GND to disable, floating to enable, start with it disabled
  
-## STOP and verify this is correct
+ <img src="photos/7.jpg" width="300">
+ <img src="photos/8.jpg" width="300">
+ <img src="photos/9.jpg" width="300">
+ <img src="photos/10.jpg" width="300">
+ <img src="photos/11.jpg" width="300">
+ 
+
+ 
+# 5) STOP and verify this is correct
 
 Use your multi-meter to check that:
 
@@ -118,17 +123,44 @@ Use your multi-meter to check that:
 1) 3.3v and GND are NOT connected
 1) GND on the driver board and GND on the ESP32 ARE connected
 
-## Add the GPIO signals
- * Left PWM to GPIO 13
- * Left DIR  to GPIO 4/ A5
- * Right PWM to GPIO 12 
- * Right DIR to GPIO 25/A1
+# 6) Add the protection diodes 
+
+The stripe side goes towards the encoder, the other side goes into ground. These clamp the 5v encoder lines to below 3.3v (nominally 2v high)
+
+<img src="photos/12.jpg" width="300">
+
+Check that you have the direction correct by putting the volt meter from encoder line to ground. Move the encoder wheel by hand to see the voltage go from 0v to 2v. If it clamps belo0.2v, then you have it in backwards.
+
+Once verified, do the other 4 the same way
+
+<img src="photos/13.jpg" width="300">
+
+
+
+# 7) Add encoder GPIO lines
  * ELA to GPIO 27
  * ELB to GPIO 26/A0
  * ERA to GPIO 17/TX1
  * ERB to GPIO 16/RX1
  
-# 5) Power up and test Voltages
+ <img src="photos/15.jpg" width="300">
+ 
+ 
+# 7) Add motor control GPIO lines
+ * Left PWM to GPIO 13
+ * Left DIR  to GPIO 4/ A5
+ * Right PWM to GPIO 12 
+ * Right DIR to GPIO 25/A1
+ 
+ <img src="photos/16.jpg" width="300">
+ <img src="photos/17.jpg" width="300">
+ 
+# 8) add the riser plate
+
+<img src="photos/19.jpg" width="300">
+
+ 
+# ) Power up and test Voltages
 
 Plug in the Esp32 USB cable and add the batteries. 
 
@@ -137,10 +169,11 @@ Plug in the Esp32 USB cable and add the batteries.
 1) Power on the battery and unplug the USB
 1) Check 5v and 3.3v again
  
-# 6) Program the Esp32 with the Motor Test Example
+# ) Program the Esp32 with the Motor Test Example
 
 
 Plug the USB back in. Make sure the Motor ~SLP pin is in GND. 
+
 
 Open Arduino IDE and program the example 
 
