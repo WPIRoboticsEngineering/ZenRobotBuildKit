@@ -146,7 +146,7 @@ Once verified, do the other 4 the same way
  <img src="photos/15.jpg" width="300">
  
  
-# 7) Add motor control GPIO lines
+# 8) Add motor control GPIO lines
  * Left PWM to GPIO 13
  * Left DIR  to GPIO 4/ A5
  * Right PWM to GPIO 12 
@@ -155,12 +155,12 @@ Once verified, do the other 4 the same way
  <img src="photos/16.jpg" width="300">
  <img src="photos/17.jpg" width="300">
  
-# 8) add the riser plate
+# 9) add the riser plate
 
 <img src="photos/19.jpg" width="300">
 
  
-# ) Power up and test Voltages
+# 10) Power up and test Voltages
 
 Plug in the Esp32 USB cable and add the batteries. 
 
@@ -169,7 +169,7 @@ Plug in the Esp32 USB cable and add the batteries.
 1) Power on the battery and unplug the USB
 1) Check 5v and 3.3v again
  
-# ) Program the Esp32 with the Motor Test Example
+# 11) Program the Esp32 with the Motor Test Example
 
 
 Plug the USB back in. Make sure the Motor ~SLP pin is in GND. 
