@@ -4,7 +4,7 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
 
 # Wiring
 
-1) [Wire the Chassis](Esp32RomiWireing.md)
+1) [Wire the Chassis](Esp32RomiWiring.md)
 
 1) [Wire the Sensors](wireSensors.md)
 
