@@ -8,7 +8,7 @@ DO not plug in the USB until the instructions say to.
 
 # 1) Assemble the Chassis Electronics
 
-We will be wireing this module:
+We will be wiring this module:
 
 https://www.pololu.com/product/3543
 
