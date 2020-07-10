@@ -66,6 +66,8 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
 ## 32u4 Processor Kit
 
   1 x Romi 32U4 Control Board https://www.pololu.com/product/3544
+  
+  1 x Romi Battery Contact Set https://www.pololu.com/product/3540
 
 ## Chassis Kit
 
@@ -119,4 +121,18 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
  1 x Motor With Encoder https://www.sparkfun.com/products/16413
  
  1 x Motor Driver - Dual TB6612FNG https://www.sparkfun.com/products/14450
+ 
+## 2002 Add On Kit
+
+ 1 x Header pack https://www.pololu.com/product/1900
+ 
+ 1 x SharpIR Cable https://www.pololu.com/product/1799
+ 
+ 1 x SharpIR bracket https://www.pololu.com/product/2677
+ 
+ 1 x SharpIR https://www.pololu.com/product/136
+ 
+ 1 x IR sensor https://www.pololu.com/product/2471
+ 
+ 
     
