@@ -46,7 +46,7 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
 
 
 
-## Processor Kit
+## ESP32 Processor Kit
 
   1 x SparkFun Thing Plus - ESP32 WROOM https://www.sparkfun.com/products/15663
   
@@ -62,6 +62,8 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
   1 x USB cable https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
   
   1 x #3543 Motor Driver and Power Distribution Board for Romi Chassis = 19.95
+  
+  1 x Custom PCB https://github.com/WPIRoboticsEngineering/1001-romi-processor-shim
   
 ## 32u4 Processor Kit
 
