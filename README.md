@@ -60,6 +60,12 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
   1 x Male- Male double sided pin headers https://www.pololu.com/product/1065
   
   1 x USB cable https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
+  
+  1 x #3543 Motor Driver and Power Distribution Board for Romi Chassis = 19.95
+  
+## 32u4 Processor Kit
+
+  1 x Romi 32U4 Control Board https://www.pololu.com/product/3544
 
 ## Chassis Kit
 
@@ -71,8 +77,6 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
    1 x Romi Encoder Pair https://www.pololu.com/product/3542
   
   ```
-
-  1 x #3543 Motor Driver and Power Distribution Board for Romi Chassis = 19.95
   
   1 x #3560 Romi Chassis Expansion Plate - Black = 4.75
   
@@ -109,4 +113,10 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
   2 x photoresistor: https://www.sparkfun.com/products/9088
   
   2 x 2.2 kOhm resistor
+  
+## 2001 Add On kit
+
+ 1 x Motor With Encoder https://www.sparkfun.com/products/16413
+ 
+ 1 x Motor Driver - Dual TB6612FNG https://www.sparkfun.com/products/14450
     
