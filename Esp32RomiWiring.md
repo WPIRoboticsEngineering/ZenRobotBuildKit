@@ -140,8 +140,8 @@ Once verified, do the other 4 the same way
 # 7) Add encoder GPIO lines
  * ELA to GPIO 27
  * ELB to GPIO 26/A0
- * ERA to GPIO 17/TX1
- * ERB to GPIO 16/RX1
+ * ERA to GPIO 32
+ * ERB to GPIO 14
  
  <img src="photos/15.jpg" width="300">
  
