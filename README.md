@@ -130,6 +130,8 @@ Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
  
  1 x SharpIR Cable https://www.pololu.com/product/1799
  
+ (If we're getting anything from SF, https://www.sparkfun.com/products/13685 can replace the previous two items)
+ 
  1 x SharpIR bracket https://www.pololu.com/product/2677
  
  1 x SharpIR https://www.pololu.com/product/136
