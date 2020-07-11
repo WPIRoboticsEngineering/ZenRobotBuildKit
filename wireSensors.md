@@ -4,9 +4,9 @@ Vcc to 3.3v
 
 Gnd to Gnd
 
-Echo to GPIO 14
+Echo to GPIO 17
 
-Trig to GPIO 32
+Trig to GPIO 16
 
 <img src="photos/20.jpg" width="300">
 <img src="photos/21.jpg" width="300">
