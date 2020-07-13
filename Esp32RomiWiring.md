@@ -22,6 +22,36 @@ Then solder the headers for the motors to the Driver Board. You will want to be 
 
 <img src="photos/solderEncoderHeaders.jpg" width="300">
 
+# 2) Add Long Wires to Driver Board
+
+All wires should be 100 to 200 mm long. 
+
+Be sure to use sane color codes. 
+ * White for 5v
+ * Red for 3.3v
+ * Black for ground
+ * Green for Motor PWM
+ * Orange for Motor Direction
+ * Yellow for encoder signals
+ 
+The pins that need wires are as follows:
+
+ * VCC MD (Our 5v regulated output from the batteries)
+ * ~SLP   (to disable the motors)
+ * Left PWM (PWM setting the speed of the left motor)
+ * Left DIR  (Direction flag for the left motor)
+ * Right PWM (PWM setting the speed of the right motor)
+ * Right DIR (Direction flag for the right motor)
+ * GND (Ground reference)
+ * ELA ( Left encoder A)
+ * ELB ( Left encoder B)
+ * ERA ( right encoder A)
+ * ERB ( right encoder B)
+ 
+<img src="photos/solderWires.jpg" width="300">
+
+# 3) Assemble the chassis electronics
+
 Put the dual-battery contacts into the chassis:
 
 <img src="photos/contacts.jpg" width="300">
@@ -63,35 +93,8 @@ Do the same for the other motor
 
 
 
-# 2) Add Long Wires to Driver Board
 
-All wires should be 100 to 200 mm long. 
-
-Be sure to use sane color codes. 
- * White for 5v
- * Red for 3.3v
- * Black for ground
- * Green for Motor PWM
- * Orange for Motor Direction
- * Yellow for encoder signals
- 
-The pins that need wires are as follows:
-
- * VCC MD (Our 5v regulated output from the batteries)
- * ~SLP   (to disable the motors)
- * Left PWM (PWM setting the speed of the left motor)
- * Left DIR  (Direction flag for the left motor)
- * Right PWM (PWM setting the speed of the right motor)
- * Right DIR (Direction flag for the right motor)
- * GND (Ground reference)
- * ELA ( Left encoder A)
- * ELB ( Left encoder B)
- * ERA ( right encoder A)
- * ERB ( right encoder B)
- 
-<img src="photos/solderWires.jpg" width="300">
-
-# 3) Add Line Sensor and Breadboard
+# 4) Add Line Sensor and Breadboard
 
 <img src="photos/1.jpg" width="300">
 <img src="photos/2.jpg" width="300">
@@ -101,7 +104,7 @@ The pins that need wires are as follows:
 <img src="photos/6.jpg" width="300">
 
  
-# 4) Wire up the ESP32
+# 5) Wire up the ESP32
  
  * VCC MD to VUSB
  * GND to GND on the Esp32
@@ -115,7 +118,7 @@ The pins that need wires are as follows:
  
 
  
-# 5) STOP and verify this is correct
+# 6) STOP and verify this is correct
 
 Use your multi-meter to check that:
 
@@ -124,7 +127,7 @@ Use your multi-meter to check that:
 1) 3.3v and GND are NOT connected
 1) GND on the driver board and GND on the ESP32 ARE connected
 
-# 6) Add the protection diodes 
+# 7) Add the protection diodes 
 
 The stripe side goes towards the encoder, the other side goes into ground. These clamp the 5v encoder lines to below 3.3v (nominally 2v high)
 
@@ -138,7 +141,7 @@ Once verified, do the other 4 the same way
 
 
 
-# 7) Add encoder GPIO lines
+# 8) Add encoder GPIO lines
  * ELA to GPIO 27
  * ELB to GPIO 26/A0
  * ERA to GPIO 32
@@ -147,7 +150,7 @@ Once verified, do the other 4 the same way
  <img src="photos/15.jpg" width="300">
  
  
-# 8) Add motor control GPIO lines
+# 9) Add motor control GPIO lines
  * Left PWM to GPIO 13
  * Left DIR  to GPIO 4/ A5
  * Right PWM to GPIO 12 
@@ -156,12 +159,12 @@ Once verified, do the other 4 the same way
  <img src="photos/16.jpg" width="300">
  <img src="photos/17.jpg" width="300">
  
-# 9) add the riser plate
+# 10) add the riser plate
 
 <img src="photos/19.jpg" width="300">
 
  
-# 10) Power up and test Voltages
+# 11) Power up and test Voltages
 
 Plug in the Esp32 USB cable and add the batteries. 
 
@@ -170,7 +173,7 @@ Plug in the Esp32 USB cable and add the batteries.
 1) Power on the battery and unplug the USB
 1) Check 5v and 3.3v again
  
-# 11) Program the Esp32 with the Motor Test Example
+# 12) Program the Esp32 with the Motor Test Example
 
 
 Plug the USB back in. Make sure the Motor ~SLP pin is in GND. 
