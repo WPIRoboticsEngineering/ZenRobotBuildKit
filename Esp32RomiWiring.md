@@ -105,8 +105,27 @@ Do the same for the other motor
 <img src="photos/5.jpg" width="300">
 <img src="photos/6.jpg" width="300">
 
+
+
  
 # 5) Wire up the ESP32
+
+## 5.1) Solder together the esp32
+
+<img src="photos/30.jpg" width="300">
+<img src="photos/31.jpg" width="300">
+<img src="photos/32.jpg" width="300">
+<img src="photos/33.jpg" width="300">
+<img src="photos/34.jpg" width="300">
+<img src="photos/35.jpg" width="300">
+<img src="photos/36.jpg" width="300">
+<img src="photos/37.jpg" width="300">
+<img src="photos/38.jpg" width="300">
+<img src="photos/39.jpg" width="300">
+<img src="photos/40.jpg" width="300">
+<img src="photos/41.jpg" width="300">
+
+## 5.2) Wire up the power to the ESP
  
  * VCC MD to VUSB
  * GND to GND on the Esp32
