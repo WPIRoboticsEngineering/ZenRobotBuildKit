@@ -222,5 +222,12 @@ Open the serial monitor after programming.
 
 After programming, *pick up your robot* and pull the ~SLP wire out of the breadboard. The motors will start spinning. It may jump if there is a wiring issue, so do not do this with the robot on the table or it may drive off. Pick it up!
 
+# 13) Add the castors
+
+<img src="photos/25jpg" width="300">
+<img src="photos/26.jpg" width="300">
+<img src="photos/27.jpg" width="300">
+<img src="photos/28.jpg" width="300">
+<img src="photos/29.jpg" width="300">
 
  
