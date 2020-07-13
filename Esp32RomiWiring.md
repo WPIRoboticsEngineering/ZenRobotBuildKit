@@ -26,19 +26,21 @@ Put the dual-battery contacts into the chassis:
 
 <img src="photos/contacts.jpg" width="300">
 
-Flip the Romi over and add the single contacts, Squeeze the spring to fit it into its hole:
+Flip the Romi over and set the single battery contacts in place. Squeeze the spring to fit the negative terminal into its hole:
 
 <img src="photos/squeeze.jpg" width="300">
 
-Add the positive termials
+Add the positive terminals:
 
 <img src="photos/bothContact.jpg" width="300">
 
-With your 4 battery contacts in place, place the driver board on top:
+Before you go to the next step, check that the terminals are aligned properly, For each battery compartement, the negative (spring) terminal should be opposite a positive (no-spring) terminal. Further, the terminals should protrude about 1/8" above the plastic (you should be able to just see the hole in the terminal above the plastic).
+
+With your 4 battery contacts in place, place the driver board on top. Each terminal should protrude just a bit above the driver board.
 
 <img src="photos/4Contacts.jpg" width="300">
 
-Solder the battery contacts
+Solder the battery contacts. They have a lot of thermal mass, so you may have to hold the soldering iron on them for a bit.
 
 <img src="photos/solderBatt.jpg" width="300">
 
