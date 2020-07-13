@@ -36,7 +36,7 @@ Add the positive terminals:
 
 Before you go to the next step, check that the terminals are aligned properly, For each battery compartment, the negative (spring) terminal should be opposite a positive (no-spring) terminal. Further, the terminals should protrude about 1/8" above the plastic (you should be able to just see the hole in the metal part of the terminal above the plastic).
 
-With your 4 battery contacts in place, place the driver board on top. Each terminal should protrude just a bit above the driver board.
+With your 4 battery contacts in place, place the driver board on top. Each terminal should protrude just a bit above the driver board. You may want to temporarily put a screw through a couple of the holes in the board to keep it aligned to the plastic base -- once you solder the terminals, it will be harder to adjust the board.
 
 <img src="photos/4Contacts.jpg" width="300">
 
