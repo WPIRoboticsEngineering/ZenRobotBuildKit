@@ -37,7 +37,7 @@ Be sure to use sane color codes.
 The pins that need wires are as follows:
 
  * VCC MD (Our 5v regulated output from the batteries)
- * ~SLP   (to disable the motors)
+ * ~SLP   (to disable the motors -- only need to do one of these, even though the picture shows two)
  * Left PWM (PWM setting the speed of the left motor)
  * Left DIR  (Direction flag for the left motor)
  * Right PWM (PWM setting the speed of the right motor)
@@ -108,7 +108,7 @@ Do the same for the other motor
  
  * VCC MD to VUSB
  * GND to GND on the Esp32
- * ~SLP   to GND to disable, floating to enable, start with it disabled
+ * Connect ~SLP to GND to disable the motors
  
  <img src="photos/7.jpg" width="300">
  <img src="photos/8.jpg" width="300">
@@ -187,7 +187,7 @@ RBE1001Lib/MotorTest
 
 Open the serial monitor after programming. 
 
-After programming, take ~SLP and connect it to an open breadboard rail. One motor should start moving.
+After programming, *pick up your robot* and pull the ~SLP wire out of the breadboard. The motors will start spinning. It may jump if there is a wiring issue, so do not do this with the robot on the table or it may drive off. Pick it up!
 
-Change the example to check the other motor. 
+
  
