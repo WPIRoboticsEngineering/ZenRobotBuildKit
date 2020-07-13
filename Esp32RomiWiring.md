@@ -98,6 +98,12 @@ Do the same for the other motor
 
 # 4) Add Line Sensor and Breadboard
 
+Use your 1 inch standoffs to attach the breadboard. 
+
+Use your 3/4 inch standoffs to attach the line sensor. 
+
+Push the screw through the foam tape from the top down and thread the standoff onto the screw. 
+
 <img src="photos/1.jpg" width="300">
 <img src="photos/2.jpg" width="300">
 <img src="photos/3.jpg" width="300">
@@ -182,7 +188,13 @@ Once verified, do the other 4 the same way
  
 # 10) add the riser plate
 
+Use 2x of your 1 inch standoffs to attach the riser using the recessed screws as shown. Look for the screw head near each motor. Attach the standoff below with a nut from inside the battery compartment. 
+
+Use the 1 1/2 inch standoffs in the back to secure the back of the riser plate. 
+
 <img src="photos/19.jpg" width="300">
+
+
 
  
 # 11) Power up and test Voltages
