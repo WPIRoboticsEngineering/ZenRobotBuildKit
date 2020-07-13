@@ -4,7 +4,7 @@
 
 Do not put in batteries until the instructions say to. Do not skip around, do these in order. 
 
-DO not plug in the USB until the instructions say to. 
+Do not plug in the USB until the instructions say to. 
 
 # 1) Assemble the Chassis Electronics
 
@@ -14,11 +14,11 @@ https://www.pololu.com/product/3543
 
 to our ESP32. 
 
-First, place the headers closest to the edge of the board in the encoder holes
+First, place the (1x6) socket headers in the motor/encoder holes closest to the edges of the board.
 
 <img src="photos/headerForEncoder.jpg" width="300">
 
-Then solder the headers for the motors to the Driver Board
+Then solder the headers for the motors to the Driver Board. You will want to be sure that the sockets are reasonably vertical; otherwise, the motors might not fit correctly. The easiest way to do that is to solder one pin of each header and then check that it's vertical before soldering the other five pins.
 
 <img src="photos/solderEncoderHeaders.jpg" width="300">
 
