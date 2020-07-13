@@ -6,6 +6,8 @@ Do not put in batteries until the instructions say to. Do not skip around, do th
 
 Do not plug in the USB until the instructions say to. 
 
+New to soldering? Check out this decent tutorial from Spark Fun: https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering
+
 # 1) Assemble the Chassis Electronics
 
 We will be wiring this module:
