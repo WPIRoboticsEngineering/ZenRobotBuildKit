@@ -103,7 +103,6 @@ The pins that need wires are as follows:
  
 # 4) Wire up the ESP32
  
- * VPU   to 3v3
  * VCC MD to VUSB
  * GND to GND on the Esp32
  * ~SLP   to GND to disable, floating to enable, start with it disabled
