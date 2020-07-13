@@ -40,7 +40,7 @@ With your 4 battery contacts in place, place the driver board on top. Each termi
 
 <img src="photos/4Contacts.jpg" width="300">
 
-Solder the battery contacts. They have a lot of thermal mass, so you may have to hold the soldering iron on them for a bit.
+Solder the battery contacts. They have a lot of thermal mass, so you may have to hold the soldering iron on them for a bit (a minute or two). The solder will melt to the terminal pretty easily, but it will take longer to get it to melt to the board and fill the gap.
 
 <img src="photos/solderBatt.jpg" width="300">
 
