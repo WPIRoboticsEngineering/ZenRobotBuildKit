@@ -34,6 +34,3 @@ Servo Red to 5v/VUSB
 Servo White to GPIO 33
 
 Servo Green to GPIO 34/A2
-
-<img src="photos/23.jpg" width="300">
-<img src="photos/24.jpg" width="300">
