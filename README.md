@@ -1,12 +1,12 @@
 ﻿# ZenRobotBuildKit
 
-Zen robotics build kit is a robot build system. Here is the Bom and Cad models.
+Zen robotics build kit is a robot build system. Here is the BOM and CAD models.
 
 <img src="photos/allDone.jpg" width="600">
 
 # Set Up Our Version of Arduino
 
-[Install artduino for your platofrm with the ESP32 toolchain set up](https://github.com/WPIRoboticsEngineering/RobotInterfaceBoard/blob/master/InstallEclipse.md)
+[Install arduino for your platform with the ESP32 toolchain set up](https://github.com/WPIRoboticsEngineering/RobotInterfaceBoard/blob/master/InstallEclipse.md)
 
 
 # Wiring
