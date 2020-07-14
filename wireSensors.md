@@ -8,8 +8,8 @@ Echo to GPIO 17
 
 Trig to GPIO 16
 
-<img src="photos/20.jpg" width="300">
 <img src="photos/21.jpg" width="300">
+<img src="photos/24.jpg" width="300">
 
 
 # Line Sensors
@@ -23,7 +23,6 @@ Sensor 3 to GPIO 36/A4
 Sensor 9 to GPIO 39/A3
 
 <img src="photos/18.jpg" width="300">
-<img src="photos/22.jpg" width="300">
 
 
 # Servo
