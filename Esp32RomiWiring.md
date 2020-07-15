@@ -16,7 +16,7 @@ https://www.pololu.com/product/3543
 
 to our ESP32. 
 
-First, place the (1x6) socket headers in the motor/encoder holes closest to the edges of the board.
+First, place the (1x6) socket headers in the motor/encoder holes closest to the edges of the board. You will have one of the headers over on one edge of the board and the other all the way over on the other side.
 
 <img src="photos/headerForEncoder.jpg" width="300">
 
