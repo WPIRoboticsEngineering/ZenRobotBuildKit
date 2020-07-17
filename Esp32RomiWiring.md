@@ -176,7 +176,7 @@ Once verified, do the other 4 the same way
  
  In the image, the yellow lines in order are
  
- ERB,ERA,ELB,ELA
+ ERB,ERA,ELA,ELB
  
  <img src="photos/15.jpg" width="300">
  
