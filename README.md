@@ -69,6 +69,31 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
   
   1 x Custom PCB https://github.com/WPIRoboticsEngineering/1001-romi-processor-shim
   
+# ESP32 Shim Board
+
+  1 x Shim Board
+  
+  6 x Zener Diode https://www.digikey.com/products/en?keywords=BZX55B3V9-TAPGICT-ND
+  
+  3 x 1x06 Male Header https://www.digikey.com/products/en?keywords=2057-PH1-06-UA-ND
+  
+  2 x 1x03 Female Header https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPPC031LFBN-RC/S7036-ND/810175
+  
+  2 x 1x04 Male Header https://www.digikey.com/products/en?keywords=%202057-PH1-04-UA-ND
+  
+  1 x 1x12 Female Header https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPPC121LFBN-RC/S7045-ND/810184
+  
+  1 x 1x16 Female Header https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC161LFBN-RC/S7014-ND/810154
+  
+  1 x 1x02 male header https://www.digikey.com/product-detail/en/adam-tech/PH1-02-UA/2057-PH1-02-UA-ND/9830266
+  
+  1 x 1x04 Female Header https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPPC041LFBN-RC/S7037-ND/810176
+  
+  1 x 1x03 Male HEader https://www.digikey.com/product-detail/en/sullins-connector-solutions/PREC003SAAN-RC/S1012EC-03-ND/2774851
+  
+  
+  
+  
 ## 32u4 Processor Kit
 
   1 x Romi 32U4 Control Board https://www.pololu.com/product/3544
