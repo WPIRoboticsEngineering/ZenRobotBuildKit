@@ -169,8 +169,8 @@ Once verified, do the other 4 the same way
 
 
 # 8) Add encoder GPIO lines
- * ELA to GPIO 27
- * ELB to GPIO 26/A0
+ * ELA to GPIO 26/A0
+ * ELB to GPIO 27
  * ERA to GPIO 14
  * ERB to GPIO 32
  
