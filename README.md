@@ -2,7 +2,7 @@
 
 Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
 
-<img src="photos/allDone.jpg" width="600">
+<img src="photos/allDone.jpg" width="300">
 
 # Set Up Our Version of Arduino
 
@@ -14,6 +14,10 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
 1) [Wire the Chassis](Esp32RomiWiring.md)
 
 1) [Wire the Sensors](wireSensors.md)
+
+# RBE1001Lib Documentation
+
+[RBE1001Lib Doxygen page](https://wpiroboticsengineering.github.io/RBE1001Lib/annotated.html)
 
 # BOM Source
 
