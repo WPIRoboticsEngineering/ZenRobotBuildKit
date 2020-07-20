@@ -66,14 +66,7 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
   
   1 x #3543 Motor Driver and Power Distribution Board for Romi Chassis = 19.95
   
-# ESP32 Shim Board
-   
-  1 x Custom PCB https://github.com/WPIRoboticsEngineering/1001-romi-processor-shim
-  ```
-  This will be produced and provided by the Robotics Department 
-  ```
-  
-  7 x Zener Diode https://www.digikey.com/products/en?keywords=BZX55B3V9-TAPGICT-ND
+ 7 x Zener Diode https://www.digikey.com/products/en?keywords=BZX55B3V9-TAPGICT-ND
   
   3 x 1x06 Male Header https://www.digikey.com/products/en?keywords=2057-PH1-06-UA-ND
   
@@ -89,7 +82,13 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
   
   1 x 1x03 Male HEader https://www.digikey.com/product-detail/en/sullins-connector-solutions/PREC003SAAN-RC/S1012EC-03-ND/2774851
   
-  
+  1 x Romi Battery Contact Set https://www.pololu.com/product/3540
+
+  1 x Custom PCB https://github.com/WPIRoboticsEngineering/1001-romi-processor-shim
+  ```
+  This will be produced and provided by the Robotics Department 
+  ```
+ 
   
 ## 32u4 Processor Kit
 
