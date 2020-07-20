@@ -174,11 +174,8 @@ Once verified, do the other 4 the same way
  * ERA to GPIO 14
  * ERB to GPIO 32
  
- In the image, the yellow lines in order are
+
  
- ERB,ERA,ELA,ELB
- 
- <img src="photos/15.jpg" width="300">
  
  
 # 9) Add motor control GPIO lines
