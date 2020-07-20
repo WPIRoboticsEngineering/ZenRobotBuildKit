@@ -1,10 +1,12 @@
 # Ultrasonic Range Finder
 
-Vcc to 3.3v
+Vcc to 5vv/VUSB
 
 Gnd to Gnd
 
-Echo to GPIO 16
+Echo to One side of a 2.2k resistor
+
+The other side of the 2.2k Resistor to GPIO 16
 
 Trig to GPIO 17
 
