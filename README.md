@@ -151,9 +151,9 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
  
  1 x Motor Driver - Dual TB6612FNG https://www.sparkfun.com/products/14450
  
- 1 x transistor
+ 1 x transistor Digikey PN: 2N2222ACS-ND 
  
- 1 x relay
+ 1 x relay Electronix Express PN: 22RCLR5V
  
  1 x infrared detector https://www.pololu.com/product/2471 
  
