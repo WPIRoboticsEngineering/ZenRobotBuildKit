@@ -21,7 +21,7 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
 
 # BOM Source
 
-## Tools Kit
+## Tools Kit (Online only, suggested)
   
   1 x wire stripper https://www.pololu.com/product/1923
   
@@ -37,8 +37,10 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
   
   1 x spring scale https://www.amazon.com/SEOH-Spring-Tubular-Calibrated-Newtons/dp/B008AJUY0Y
   
+  1 x PC running Windows 
+  
 
-## Consumables Kit
+## Consumables Kit 
 
   Note that students only need a portion of the items here: e.g., they don't each need a wire spool kit -- they just need enough wire to wire their 'bot.
 
@@ -61,23 +63,18 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
 ```Alternate https://www.adafruit.com/product/3619 ```
   
   1 x Breadboard https://www.pololu.com/product/4000 (specifically this one, as it has mounting holes)
-  
-  1 x Header kit https://www.sparkfun.com/products/15187
-  ```Only needed if we go with the SparkFun Thing Plus```
-  
+    
   1 x Male- Male double sided pin headers https://www.pololu.com/product/1065
   
   1 x USB cable https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
   
   1 x #3543 Motor Driver and Power Distribution Board for Romi Chassis = 19.95
   
+# ESP32 Shim Board
+   
   1 x Custom PCB https://github.com/WPIRoboticsEngineering/1001-romi-processor-shim
   
-# ESP32 Shim Board
-
-  1 x Shim Board
-  
-  6 x Zener Diode https://www.digikey.com/products/en?keywords=BZX55B3V9-TAPGICT-ND
+  7 x Zener Diode https://www.digikey.com/products/en?keywords=BZX55B3V9-TAPGICT-ND
   
   3 x 1x06 Male Header https://www.digikey.com/products/en?keywords=2057-PH1-06-UA-ND
   
@@ -94,7 +91,6 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
   1 x 1x04 Female Header https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPPC041LFBN-RC/S7037-ND/810176
   
   1 x 1x03 Male HEader https://www.digikey.com/product-detail/en/sullins-connector-solutions/PREC003SAAN-RC/S1012EC-03-ND/2774851
-  
   
   
   
@@ -150,6 +146,8 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
   2 x photoresistor: https://www.sparkfun.com/products/9088
   
   2 x 2.2 kOhm resistor
+  
+  1 x 9 x 1 female header
   
 ## 2001 Add On kit
 
