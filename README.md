@@ -143,7 +143,9 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
   
   2 x 2.2 kOhm resistor
   
-  1 x 9 x 1 female header
+  1 x 7 x 1 female header
+  
+  1 x potentiometer Digikey PN 3310R-125-103L-ND
   
 ## 2001 Add On kit
 
