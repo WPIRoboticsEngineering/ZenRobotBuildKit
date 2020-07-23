@@ -31,7 +31,7 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
   
   1 x soldering stand  https://www.sparkfun.com/products/9477
   
-  1 x spool of solder https://www.sparkfun.com/products/9325
+  1 x spool of solder lead free https://www.digikey.com/product-detail/en/aven-tools/17551LF/243-1341-ND/5252791
   
   1 x spool of solder wick https://www.sparkfun.com/products/9327
   
