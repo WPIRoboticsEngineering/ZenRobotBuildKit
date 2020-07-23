@@ -9,11 +9,13 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
 [Install arduino for your platform with the ESP32 toolchain set up](https://github.com/WPIRoboticsEngineering/RobotInterfaceBoard/blob/master/InstallEclipse.md)
 
 
-# Wiring
+# Build the Romi
 
 1) [Wire the Chassis](Esp32RomiWiring.md)
 
 1) [Wire the Sensors](wireSensors.md)
+
+1) [Build the lifting Arm](lifter.md)
 
 # RBE1001Lib Documentation
 
