@@ -21,6 +21,10 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
 
 [RBE1001Lib Doxygen page](https://wpiroboticsengineering.github.io/RBE1001Lib/annotated.html)
 
+# Connect to Wifi
+
+Program the RCCTL example and follow [these instructions to connecto to network](https://github.com/madhephaestus/Esp32WifiManager#connect-to-wifi-network)
+
 # BOM Source
 
 ## Tools Kit (Online only, suggested)
