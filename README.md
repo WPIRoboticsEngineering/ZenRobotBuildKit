@@ -101,6 +101,20 @@ Program the RCCTL example and follow [these instructions to connec to to network
   1 x Romi 32U4 Control Board https://www.pololu.com/product/3544
   
   1 x Romi Battery Contact Set https://www.pololu.com/product/3540
+  
+  (1) 1x2 socket: https://www.pololu.com/product/1012
+  
+  (3) 1x6 socket: https://www.pololu.com/product/1016
+  
+  (2) 1x9 socket: https://www.pololu.com/product/1019
+  
+  (1) 1x40 breakaway pins: https://www.pololu.com/product/1065
+  
+  (1) breadboard w/screw mounts: https://www.pololu.com/product/4000
+  
+  (1) USB cable: https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
+  
+
 
 ## Chassis Kit
 
@@ -149,7 +163,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   2 x 2.2 kOhm resistor
   
-  1 x 7 x 1 female header
+  (1) 1x9 socket: https://www.pololu.com/product/1019 
   
   1 x potentiometer Digikey PN 3310R-125-103L-ND
   
