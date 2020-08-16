@@ -41,7 +41,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x spool of solder wick https://www.sparkfun.com/products/9327
   
-  1 x spring scale https://www.amazon.com/SEOH-Spring-Tubular-Calibrated-Newtons/dp/B008AJUY0Y
+  1 x spring scale https://www.elexp.com/71ea7-g63spring-scale-tubular-5000g-yel.html
   
   1 x PC running Windows 
   
