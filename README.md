@@ -43,7 +43,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x spring scale https://www.elexp.com/71ea7-g63spring-scale-tubular-5000g-yel.html
   
-  1 x x86_64 PC running Windows nativly
+  1 x x86_64 PC running Windows or Linux nativly
   * No MacOS (install windows dual-boot)
   * No Chromebooks (No way to get the software working)
   * No Microsoft Surfaces (if they are the ARM variant)
