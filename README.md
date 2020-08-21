@@ -117,6 +117,8 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   (1) USB cable: https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
   
+  (1) Side-entry screw terminal: https://www.pololu.com/product/2491 (comes in packs of three -- each kit needs one)
+  
 
 
 ## Chassis Kit
