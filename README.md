@@ -169,6 +169,8 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x yellow LED
   
+  1 x 330 Ohm resistor
+
   1 x 1 kOhm resistor
   
   2 x 2.2 kOhm resistor
