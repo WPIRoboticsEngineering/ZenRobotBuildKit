@@ -75,7 +75,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x #3543 Motor Driver and Power Distribution Board for Romi Chassis = 19.95
   
- 7 x Zener Diode https://www.digikey.com/products/en?keywords=BZX55B3V9-TAPGICT-ND
+  7 x Zener Diode https://www.digikey.com/products/en?keywords=BZX55B3V9-TAPGICT-ND
   
   3 x 1x06 Male Header https://www.digikey.com/products/en?keywords=2057-PH1-06-UA-ND
   
@@ -94,7 +94,8 @@ Program the RCCTL example and follow [these instructions to connec to to network
   1 x Romi Battery Contact Set https://www.pololu.com/product/3540
 
   1 x Custom PCB https://github.com/WPIRoboticsEngineering/1001-romi-processor-shim
-  ```
+
+```
   This will be produced and provided by the Robotics Department 
   ```
  
@@ -116,6 +117,8 @@ Program the RCCTL example and follow [these instructions to connec to to network
   (1) breadboard w/screw mounts: https://www.pololu.com/product/4000
   
   (1) USB cable: https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
+  
+  (1) Side-entry screw terminal: https://www.pololu.com/product/2491 (comes in packs of three -- each kit needs one)
   
 
 
@@ -163,6 +166,12 @@ Program the RCCTL example and follow [these instructions to connec to to network
   1 x wire for ultrasonic https://www.sparkfun.com/products/10369
 
   2 x photoresistor: https://www.sparkfun.com/products/9088
+  
+  1 x yellow LED
+  
+  1 x 330 Ohm resistor
+
+  1 x 1 kOhm resistor
   
   2 x 2.2 kOhm resistor
   
