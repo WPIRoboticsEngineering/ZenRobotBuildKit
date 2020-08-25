@@ -1,3 +1,31 @@
+<img src="photos/shim/0001.jpg" width="300">
+<img src="photos/shim/0002.jpg" width="300">
+<img src="photos/shim/0003.jpg" width="300">
+<img src="photos/shim/0004.jpg" width="300">
+<img src="photos/shim/0005.jpg" width="300">
+<img src="photos/shim/0006.jpg" width="300">
+<img src="photos/shim/0007.jpg" width="300">
+<img src="photos/shim/0008.jpg" width="300">
+<img src="photos/shim/0009.jpg" width="300">
+<img src="photos/shim/0010.jpg" width="300">
+<img src="photos/shim/0011.jpg" width="300">
+<img src="photos/shim/0012.jpg" width="300">
+<img src="photos/shim/0013.jpg" width="300">
+<img src="photos/shim/0014.jpg" width="300">
+<img src="photos/shim/0015.jpg" width="300">
+<img src="photos/shim/0016.jpg" width="300">
+<img src="photos/shim/0017.jpg" width="300">
+<img src="photos/shim/0018.jpg" width="300">
+<img src="photos/shim/0019.jpg" width="300">
+<img src="photos/shim/0020.jpg" width="300">
+<img src="photos/shim/0021.jpg" width="300">
+<img src="photos/shim/0022.jpg" width="300">
+<img src="photos/shim/0023.jpg" width="300">
+<img src="photos/shim/0024.jpg" width="300">
+
+## Legacy 
+
+
 <img src="photos/whole-kit-layout.jpg" width="300">
 
 # 0) Start with power disconnected
