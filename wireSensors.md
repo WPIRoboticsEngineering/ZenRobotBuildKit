@@ -6,9 +6,9 @@ Gnd to Gnd
 
 Echo to One side of a 2.2k resistor
 
-The other side of the 2.2k Resistor to GPIO 16
+The other side of the 2.2k Resistor to GPIO 22
 
-Trig to GPIO 17
+Trig to GPIO 23
 
 <img src="photos/21.jpg" width="300">
 <img src="photos/24.jpg" width="300">
