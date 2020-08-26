@@ -106,11 +106,11 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x Romi Battery Contact Set https://www.pololu.com/product/3540
   
-  (1) 1x2 socket: https://www.pololu.com/product/1012
+  ~~(1) 1x2 socket: https://www.pololu.com/product/1012~~ (Superceded by the screw terminals; you may get one in your kit)
   
   (3) 1x6 socket: https://www.pololu.com/product/1016
   
-  (2) 1x9 socket: https://www.pololu.com/product/1019
+  (2) 1x9 socket: https://www.pololu.com/product/1019 (2001 students: you'll also need the 3rd 1x9 socket in the Sensors Kit.)
   
   (1) 1x40 breakaway pins: https://www.pololu.com/product/1065
   
@@ -137,7 +137,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x #3531 Romi Chassis Ball Caster Kit = 2.95 (color unimportant)
   
-  4 x female header GPIO connections to driver board https://www.pololu.com/product/1016 
+  ~~4 x female header GPIO connections to driver board https://www.pololu.com/product/1016~~ (Superceded by the sockets in the 32U4 processor kit)
   
   1 x #1944 Aluminum Standoff: 1", 2-56 thread (4-pack): https://www.pololu.com/product/1944
   
