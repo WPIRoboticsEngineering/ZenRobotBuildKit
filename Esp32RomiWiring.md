@@ -96,7 +96,11 @@ The tabs should protrude roughly 1/16 inch above the Driver Board.
 
 # Step 12 Add line sensor
 
-(Skip this step for now.)
+Use your 3/4 inch standoffs to attach the line sensor. 
+
+<img src="photos/3.jpg" width="300">
+<img src="photos/4.jpg" width="300">
+<img src="photos/5.jpg" width="300">
 
 # Step 13 Solder the Shim to the Driver Board
 
