@@ -47,6 +47,8 @@ Flip it over and solder the pins
 
 # Step 6 Solder the headers that come with the Driver Board
 
+When soldering in the 1x6 sockets, be sure to use the short ones that came in the bag with the Driver Board. Be sure that the sockets are fully seated on the board and perpendicular to it; otherwise, you will have trouble connecting the motors later. Best to solder one connection and then check before you solder the other five.
+
 <img src="photos/shim/0026.jpg" width="300">
 <img src="photos/shim/0027.jpg" width="300">
 <img src="photos/shim/0028.jpg" width="300">
