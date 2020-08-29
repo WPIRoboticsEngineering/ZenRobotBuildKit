@@ -75,14 +75,8 @@ Remove the shim after soldering to check the joints
 
 # Step 12 Add line sensor
 
-Use your 1 inch standoffs to attach the breadboard. 
-
 Use your 3/4 inch standoffs to attach the line sensor. 
 
-Push the screw through the foam tape from the top down and thread the standoff onto the screw. 
-
-<img src="photos/1.jpg" width="300">
-<img src="photos/2.jpg" width="300">
 <img src="photos/3.jpg" width="300">
 <img src="photos/4.jpg" width="300">
 <img src="photos/5.jpg" width="300">
