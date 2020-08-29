@@ -1,15 +1,43 @@
+# Step 0 Learn to Solder (Click on image to play on YouTube)
+
+[![Alt text](https://img.youtube.com/vi/FWBCbFPXJLg/0.jpg)](https://www.youtube.com/watch?v=FWBCbFPXJLg)
+
+# Step 1 Lay out your electronics
+
 <img src="photos/shim/0001.jpg" width="300">
-<img src="photos/shim/0002.jpg" width="300">
+
+# Step 2 Solder in the 10k Resistor
+
 <img src="photos/shim/0003.jpg" width="300">
 <img src="photos/shim/0004.jpg" width="300">
+
+# Step 3 Solder in the Diodes
+
+BE CAERFUL to line up the black stripe with the stripe in the silk screen. 
+
+They are made of a bead of glass, be very careful with them.
+
 <img src="photos/shim/0005.jpg" width="300">
 <img src="photos/shim/0006.jpg" width="300">
+
+# Step 4 Solder the ESP32 Sockets
+
+Start by placing the sockets on your processor
+
 <img src="photos/shim/0007.jpg" width="300">
 <img src="photos/shim/0008.jpg" width="300">
 <img src="photos/shim/0009.jpg" width="300">
-<img src="photos/shim/0010.jpg" width="300">
+
+then insert the sockets into the Shim.
+
 <img src="photos/shim/0011.jpg" width="300">
+
+Flip it over and solder the pins
+
 <img src="photos/shim/0012.jpg" width="300">
+
+# Step 5
+
 <img src="photos/shim/0013.jpg" width="300">
 <img src="photos/shim/0014.jpg" width="300">
 <img src="photos/shim/0015.jpg" width="300">

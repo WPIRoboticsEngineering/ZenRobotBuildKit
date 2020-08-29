@@ -69,6 +69,8 @@ Program the RCCTL example and follow [these instructions to connec to to network
 
   1 x ESP32-DevKitC-VB https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-DevKitC-VB?qs=w%2Fv1CP2dgqq1iFM3SpreoA%3D%3D
   
+  * Alternate source: https://www.digikey.com/product-detail/en/espressif-systems/ESP32-DEVKITC-32E/1965-ESP32-DEVKITC-32E-ND/12091810
+  
   1 x Breadboard https://www.pololu.com/product/4000 (specifically this one, as it has mounting holes)
      
   1 x USB cable https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
@@ -106,11 +108,11 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x Romi Battery Contact Set https://www.pololu.com/product/3540
   
-  (1) 1x2 socket: https://www.pololu.com/product/1012
+  ~~(1) 1x2 socket: https://www.pololu.com/product/1012~~ (Superceded by the screw terminals; you may get one in your kit)
   
   (3) 1x6 socket: https://www.pololu.com/product/1016
   
-  (2) 1x9 socket: https://www.pololu.com/product/1019
+  (2) 1x9 socket: https://www.pololu.com/product/1019 (2001 students: you'll also need the 3rd 1x9 socket in the Sensors Kit.)
   
   (1) 1x40 breakaway pins: https://www.pololu.com/product/1065
   
@@ -137,7 +139,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x #3531 Romi Chassis Ball Caster Kit = 2.95 (color unimportant)
   
-  4 x female header GPIO connections to driver board https://www.pololu.com/product/1016 
+  ~~4 x female header GPIO connections to driver board https://www.pololu.com/product/1016~~ (Superceded by the sockets in the 32U4 processor kit)
   
   1 x #1944 Aluminum Standoff: 1", 2-56 thread (4-pack): https://www.pololu.com/product/1944
   
