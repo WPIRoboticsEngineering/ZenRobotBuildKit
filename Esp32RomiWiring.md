@@ -49,6 +49,8 @@ Flip it over and solder the pins
 # Step 7 Dry fit the headers between the Driver and the Shim
 
 <img src="photos/shim/0030.jpg" width="300">
+<img src="photos/shim/0034.jpg" width="300">
+
 
 # Step 8 Place the Shim on and tape it in place before soldering
 
