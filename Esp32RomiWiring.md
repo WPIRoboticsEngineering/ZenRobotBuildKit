@@ -146,8 +146,8 @@ Do the same for the other motor
 Put your ESP32 into the sockets in the shim board. Pay close attention to orientation -- the shim has text for which end the USB connector is on. Plug in the USB cable. 
 
 1) Check that the 5V pin is at 5+-0.1 V
-2) Check 3.3V pin is at 3.3+-0.1 V
-3) Add batteries, power on the Driver Board and unplug the USB
+1) Check 3.3V pin is at 3.3+-0.1 V
+1) Add batteries, power on the Driver Board and unplug the USB
 1) Check 5V and 3.3V pins again
  
 # Step 16 Program the ESP32 with the Encoder Test Example
