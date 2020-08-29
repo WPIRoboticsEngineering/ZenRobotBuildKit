@@ -1,3 +1,8 @@
+# Step 0 Learn to Solder
+
+[![Alt text](https://img.youtube.com/vi/FWBCbFPXJLg/0.jpg)](https://www.youtube.com/watch?v=FWBCbFPXJLg)
+
+
 <img src="photos/shim/0001.jpg" width="300">
 <img src="photos/shim/0002.jpg" width="300">
 <img src="photos/shim/0003.jpg" width="300">
