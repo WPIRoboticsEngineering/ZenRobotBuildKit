@@ -50,7 +50,12 @@ Flip it over and solder the pins
 
 # Step 7 Dry fit the headers between the Driver and the Shim
 
+Start with both boards.
+
 <img src="photos/shim/0030.jpg" width="300">
+
+Add four sets of pins, as shown. The short leg of the pins go into the board; the long legs stick up.
+
 <img src="photos/shim/0034a.jpg" width="300">
 
 
