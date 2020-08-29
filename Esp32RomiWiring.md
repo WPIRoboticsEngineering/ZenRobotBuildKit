@@ -170,11 +170,13 @@ Use 2x of your 1 inch standoffs to attach the riser using the recessed screws as
 
 Use the 1 1/2 inch standoffs in the back to secure the back of the riser plate. 
 
+(Ignore the wires in the picture -- this was an old version before the shim.)
+
 <img src="photos/19.jpg" width="300">
 
 # Step 19 Add the casters
 
-<img src="photos/25jpg" width="300">
+<img src="photos/25.jpg" width="300">
 <img src="photos/26.jpg" width="300">
 <img src="photos/27.jpg" width="300">
 <img src="photos/28.jpg" width="300">
