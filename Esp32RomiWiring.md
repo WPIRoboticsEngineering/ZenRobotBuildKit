@@ -8,9 +8,12 @@
 
 # Step 2 Solder in the 10k Resistor
 
-All components -- resistors, diodes, and sockets -- go on the top (silk screen) side of the shim board. Solder them from the bottom.
+All components -- resistors, diodes, and sockets -- go on the top (silk screen) side of the shim board. 
 
 <img src="photos/shim/0003.jpg" width="300">
+
+Solder them from the bottom.
+
 <img src="photos/shim/0004.jpg" width="300">
 
 # Step 3 Solder in the Diodes
