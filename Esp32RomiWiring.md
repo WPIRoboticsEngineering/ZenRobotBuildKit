@@ -5,10 +5,12 @@
 # Step 1 Lay out your electronics
 
 <img src="photos/shim/0001.jpg" width="300">
+
 # Step 2 Solder in the 10k Resistor
 
 <img src="photos/shim/0003.jpg" width="300">
 <img src="photos/shim/0004.jpg" width="300">
+
 # Step 3 Solder in the Diodes
 
 BE CAERFUL to line up the black stripe with the stripe in the silk screen. 
@@ -34,6 +36,7 @@ Flip it over and solder the pins
 
 <img src="photos/shim/0012.jpg" width="300">
 
+# Step 5
 
 <img src="photos/shim/0013.jpg" width="300">
 <img src="photos/shim/0014.jpg" width="300">
