@@ -124,7 +124,43 @@ Do the same for the other motor
 <img src="photos/bothMotorsDone.jpg" width="300">
 
 
-# Step 15 add the riser plate
+# Step 15 Power up and test Voltages
+
+Put your ESP32 into the sockets in the shim board. Pay close attention to orientation -- the shim has text for which end the USB connector is on. Plug in the USB cable. 
+
+1) Check that the 5V pin is at 5+-0.1 V
+2) Check 3.3V pin is at 3.3+-0.1 V
+3) Add batteries, power on the Driver Board and unplug the USB
+1) Check 5V and 3.3V pins again
+ 
+# Step 16 Program the ESP32 with the Encoder Test Example
+
+
+Plug the USB back in.  
+
+
+Open your IDE of choice and program the example 
+
+```
+RBE1001Lib/EncoderTest
+```
+
+Open the serial monitor after programming. Gently roll the Romi forward and backward (the shim board faces the front) and verify that the wheels count up when rolling forward and down when backwards.
+
+# Step 17 Program the ESP32 with the Motor Test Example
+
+Place the jumper on the two pins marked ???. This will connect the "sleep" pin to ground so your motors can't spin.
+
+Open and upload the example
+
+```
+RBE1001Lib/MotorTest
+```
+
+After programming, *pick up your robot* and pull the sleep jumper out of the shim. The motors will start spinning. It may jump if there is a wiring issue, so do not do this with the robot on the table or it may drive off. Pick it up!
+
+
+# Step 18 add the riser plate
 
 Use 2x of your 1 inch standoffs to attach the riser using the recessed screws as shown. Look for the screw head near each motor. Attach the standoff below with a nut from inside the battery compartment. 
 
@@ -132,35 +168,7 @@ Use the 1 1/2 inch standoffs in the back to secure the back of the riser plate.
 
 <img src="photos/19.jpg" width="300">
 
-
-
- 
-# 11) Power up and test Voltages
-
-Plug in the Esp32 USB cable and add the batteries. 
-
-1) Check 5v pin is at 5v +-0.1v
-1) Check 3.3v pin is at 3.3v +-0.1v
-1) Power on the battery and unplug the USB
-1) Check 5v and 3.3v again
- 
-# 12) Program the Esp32 with the Motor Test Example
-
-
-Plug the USB back in. Make sure the Motor ~SLP pin is in GND. 
-
-
-Open Arduino IDE and program the example 
-
-```
-RBE1001Lib/MotorTest
-```
-
-Open the serial monitor after programming. 
-
-After programming, *pick up your robot* and pull the ~SLP wire out of the breadboard. The motors will start spinning. It may jump if there is a wiring issue, so do not do this with the robot on the table or it may drive off. Pick it up!
-
-# 13) Add the castors
+# Step 19 Add the casters
 
 <img src="photos/25jpg" width="300">
 <img src="photos/26.jpg" width="300">
