@@ -103,7 +103,7 @@ Solder the 1x9 socket to your line sensor. The sockets go on the OPPOSITE side f
 
 # Step 12b Add line sensor to chassis
 
-Use your 3/4 inch standoffs to attach the line sensor. 
+Use your 3/4 inch standoffs to attach the line sensor. You'll want to do this now because it will be hard to mount the sensor after you solder in the shim.
 
 <img src="photos/3.jpg" width="300">
 
