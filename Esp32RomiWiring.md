@@ -36,101 +36,64 @@ Flip it over and solder the pins
 
 <img src="photos/shim/0012.jpg" width="300">
 
-# Step 5
+# Step 5 Solder the rest of the headers as shown
 
-<img src="photos/shim/0013.jpg" width="300">
-<img src="photos/shim/0014.jpg" width="300">
-<img src="photos/shim/0015.jpg" width="300">
-<img src="photos/shim/0016.jpg" width="300">
-<img src="photos/shim/0017.jpg" width="300">
-<img src="photos/shim/0018.jpg" width="300">
-<img src="photos/shim/0019.jpg" width="300">
-<img src="photos/shim/0020.jpg" width="300">
-<img src="photos/shim/0021.jpg" width="300">
-<img src="photos/shim/0022.jpg" width="300">
-<img src="photos/shim/0023.jpg" width="300">
-<img src="photos/shim/0024.jpg" width="300">
+<img src="photos/shim/0025.jpg" width="300">
 
-## Legacy 
+# Step 6 Solder the headers that come with the Driver Board
 
+<img src="photos/shim/0026.jpg" width="300">
+<img src="photos/shim/0027.jpg" width="300">
+<img src="photos/shim/0028.jpg" width="300">
 
-<img src="photos/whole-kit-layout.jpg" width="300">
+# Step 7 Dry fit the headers between the Driver and the Shim
 
-# 0) Start with power disconnected
+<img src="photos/shim/0030.jpg" width="300">
 
-Do not put in batteries until the instructions say to. Do not skip around, do these in order. 
+# Step 8 Place the Shim on and tape it in place before soldering
 
-Do not plug in the USB until the instructions say to. 
+<img src="photos/shim/0031.jpg" width="300">
+<img src="photos/shim/0032.jpg" width="300">
 
-New to soldering? Check out this decent tutorial from Spark Fun: https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering
+# Step 9 Solder the Driver Board ONLY (Not the red shim yet)
 
-# 1) Assemble the Chassis Electronics
+<img src="photos/shim/0033.jpg" width="300">
 
-We will be wiring this module:
+Remove the shim after soldering to check the joints
 
-https://www.pololu.com/product/3543
+<img src="photos/shim/0034.jpg" width="300">
 
-to our ESP32. 
+# Step 10 Add the battery tabs to the Chassis
 
-First, place the (1x6) socket headers in the motor/encoder holes closest to the edges of the board. You will have one of the headers over on one edge of the board and the other all the way over on the other side.
+<img src="photos/shim/0036.jpg" width="300">
+<img src="photos/shim/0037.jpg" width="300">
+<img src="photos/shim/0038.jpg" width="300">
 
-<img src="photos/headerForEncoder.jpg" width="300">
-
-Then solder the headers for the motors to the Driver Board. You will want to be sure that the sockets are reasonably vertical; otherwise, the motors might not fit correctly. The easiest way to do that is to solder one pin of each header and then check that it's vertical before soldering the other five pins.
-
-<img src="photos/solderEncoderHeaders.jpg" width="300">
-
-# 2) Add Long Wires to Driver Board
-
-All wires should be 100 to 200 mm long. 
-
-Be sure to use sane color codes. 
- * White for 5v
- * Red for 3.3v
- * Black for ground
- * Green for Motor PWM
- * Orange for Motor Direction
- * Yellow for encoder signals
- 
-The pins that need wires are as follows:
-
- * VCC MD (Our 5v regulated output from the batteries)
- * ~SLP   (to disable the motors -- only need to do one of these, even though the picture shows two)
- * Left PWM (PWM setting the speed of the left motor)
- * Left DIR  (Direction flag for the left motor)
- * Right PWM (PWM setting the speed of the right motor)
- * Right DIR (Direction flag for the right motor)
- * GND (Ground reference)
- * ELA ( Left encoder A)
- * ELB ( Left encoder B)
- * ERA ( right encoder A)
- * ERB ( right encoder B)
- 
-<img src="photos/solderWires.jpg" width="300">
-
-# 3) Assemble the chassis electronics
-
-Put the dual-battery contacts into the chassis:
-
-<img src="photos/contacts.jpg" width="300">
-
-Flip the Romi over and set the single battery contacts in place. Squeeze the spring to fit the negative terminal into its hole:
-
-<img src="photos/squeeze.jpg" width="300">
-
-Add the positive terminals:
-
-<img src="photos/bothContact.jpg" width="300">
-
-Before you go to the next step, check that the terminals are aligned properly, For each battery compartment, the negative (spring) terminal should be opposite a positive (no-spring) terminal. Further, the terminals should protrude about 1/8" above the plastic (you should be able to just see the hole in the metal part of the terminal above the plastic).
-
-With your 4 battery contacts in place, place the driver board on top. Each terminal should protrude just a bit above the driver board. You may want to temporarily put a screw through a couple of the holes in the board to keep it aligned to the plastic base -- once you solder the terminals, it will be harder to adjust the board.
+# Step 11 Solder the Battery Tabs
 
 <img src="photos/4Contacts.jpg" width="300">
 
-Solder the battery contacts. They have a lot of thermal mass, so you may have to hold the soldering iron on them for a bit (a minute or two). The solder will melt to the terminal pretty easily, but it will take longer to get it to melt to the board and fill the gap.
+# Step 12 Add line sensor
 
-<img src="photos/solderBatt.jpg" width="300">
+Use your 1 inch standoffs to attach the breadboard. 
+
+Use your 3/4 inch standoffs to attach the line sensor. 
+
+Push the screw through the foam tape from the top down and thread the standoff onto the screw. 
+
+<img src="photos/1.jpg" width="300">
+<img src="photos/2.jpg" width="300">
+<img src="photos/3.jpg" width="300">
+<img src="photos/4.jpg" width="300">
+<img src="photos/5.jpg" width="300">
+<img src="photos/6.jpg" width="300">
+
+# Step 13 Solder the Shim to the Driver Board
+
+<img src="photos/shim/0039.jpg" width="300">
+<img src="photos/shim/0040.jpg" width="300">
+
+# Step 14 Add Motor Mount Clips
 
 Add the motor Clips to both sides
 
@@ -149,101 +112,7 @@ Do the same for the other motor
 <img src="photos/bothMotorsDone.jpg" width="300">
 
 
-
-
-
-# 4) Add Line Sensor and Breadboard
-
-Use your 1 inch standoffs to attach the breadboard. 
-
-Use your 3/4 inch standoffs to attach the line sensor. 
-
-Push the screw through the foam tape from the top down and thread the standoff onto the screw. 
-
-<img src="photos/1.jpg" width="300">
-<img src="photos/2.jpg" width="300">
-<img src="photos/3.jpg" width="300">
-<img src="photos/4.jpg" width="300">
-<img src="photos/5.jpg" width="300">
-<img src="photos/6.jpg" width="300">
-
-
-
- 
-# 5) Wire up the ESP32
-
-## 5.1) Solder together the esp32
-
-<img src="photos/30.jpg" width="300">
-<img src="photos/31.jpg" width="300">
-<img src="photos/32.jpg" width="300">
-<img src="photos/33.jpg" width="300">
-<img src="photos/34.jpg" width="300">
-<img src="photos/35.jpg" width="300">
-<img src="photos/36.jpg" width="300">
-<img src="photos/37.jpg" width="300">
-<img src="photos/38.jpg" width="300">
-<img src="photos/39.jpg" width="300">
-<img src="photos/40.jpg" width="300">
-<img src="photos/41.jpg" width="300">
-
-## 5.2) Wire up the power to the ESP
- 
- * VCC MD to VUSB
- * GND to GND on the Esp32
- * Connect ~SLP to GND to disable the motors
- 
- <img src="photos/7.jpg" width="300">
- <img src="photos/8.jpg" width="300">
- <img src="photos/9.jpg" width="300">
- <img src="photos/10.jpg" width="300">
- <img src="photos/11.jpg" width="300">
- 
-
- 
-# 6) STOP and verify this is correct
-
-Use your multi-meter to check that:
-
-1) 5v and Gnd are NOT  connected
-1) 5v and 3.3v are NOT connected 
-1) 3.3v and GND are NOT connected
-1) GND on the driver board and GND on the ESP32 ARE connected
-
-# 7) Add the protection diodes 
-
-The stripe side goes towards the encoder, the other side goes into ground. These clamp the 5v encoder lines to below 3.3v (nominally 2v high)
-
-<img src="photos/12.jpg" width="300">
-
-Check that you have the direction correct by putting the volt meter from encoder line to ground. Move the encoder wheel by hand to see the voltage go from 0v to 2v. If it clamps belo0.2v, then you have it in backwards.
-
-Once verified, do the other 4 the same way
-
-<img src="photos/13.jpg" width="300">
-
-
-
-# 8) Add encoder GPIO lines
- * ELA to GPIO 26/A0
- * ELB to GPIO 27
- * ERA to GPIO 14
- * ERB to GPIO 32
- 
-
- 
- 
- 
-# 9) Add motor control GPIO lines
- * Left PWM to GPIO 13
- * Left DIR  to GPIO 4/ A5
- * Right PWM to GPIO 12 
- * Right DIR to GPIO 25/A1
- 
- <img src="photos/16.jpg" width="300">
- <img src="photos/17.jpg" width="300">
- 
-# 10) add the riser plate
+# Step 15 add the riser plate
 
 Use 2x of your 1 inch standoffs to attach the riser using the recessed screws as shown. Look for the screw head near each motor. Attach the standoff below with a nut from inside the battery compartment. 
 
