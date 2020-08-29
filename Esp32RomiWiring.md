@@ -1,4 +1,4 @@
-# Step 0 Learn to Solder
+# Step 0 Learn to Solder (Click on image to play on YouTube)
 
 [![Alt text](https://img.youtube.com/vi/FWBCbFPXJLg/0.jpg)](https://www.youtube.com/watch?v=FWBCbFPXJLg)
 
