@@ -90,6 +90,8 @@ Remove the shim after soldering to check the joints
 
 # Step 11 Solder the Battery Tabs
 
+The tabs should protrude roughly 1/16 inch above the Driver Board.
+
 <img src="photos/4Contacts.jpg" width="300">
 
 # Step 12 Add line sensor
