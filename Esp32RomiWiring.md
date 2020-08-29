@@ -106,8 +106,10 @@ Solder the 1x9 socket to your line sensor. The sockets go on the OPPOSITE side f
 Use your 3/4 inch standoffs to attach the line sensor. 
 
 <img src="photos/3.jpg" width="300">
+
+(Your sensor will have the sockets mounted.)
+
 <img src="photos/4.jpg" width="300">
-<img src="photos/5.jpg" width="300">
 
 # Step 13 Solder the Shim to the Driver Board
 
