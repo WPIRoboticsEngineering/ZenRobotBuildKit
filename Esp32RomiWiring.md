@@ -102,7 +102,7 @@ The tabs should protrude roughly 1/16 inch above the Driver Board.
 
 Slip the shim board back on the pins you solder to the Driver Board in Step 9. Be sure the shim is fully seated before soldering (use tape again). The long pins will protrude well above the shim. That's OK.
 
-# If you are in any doubt about your soldering work so far, show your system to an instructor (SA, LA, TA, faculty, lab manager, friends, romans, countrymen...).
+# If you are in any doubt about your soldering work so far, have someone look over your soldering work (SA, LA, TA, faculty, lab manager, friends, romans, countrymen...).
 
 Once you solder the shim board to the Driver Board, repairing bad solder joints will range from troublesome to impossible.
 
