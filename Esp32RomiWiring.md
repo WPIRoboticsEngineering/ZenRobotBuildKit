@@ -51,6 +51,11 @@ When soldering in the 1x6 sockets, be sure to use the short ones that came in th
 
 <img src="photos/shim/0026.jpg" width="300">
 <img src="photos/shim/0027.jpg" width="300">
+
+The sockets go in the outer positions.
+
+<img src="photos/shim/0030a.jpg" width="300">
+
 <img src="photos/shim/0028.jpg" width="300">
 
 # Step 7 Dry fit the headers between the Driver and the Shim
