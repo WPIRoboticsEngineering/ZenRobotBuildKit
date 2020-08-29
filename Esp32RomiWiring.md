@@ -94,7 +94,14 @@ The tabs should protrude roughly 1/16 inch above the Driver Board.
 
 <img src="photos/4Contacts.jpg" width="300">
 
-# Step 12 Add line sensor
+# Step 12a Add sockets to line sensor
+
+Solder the 1x9 socket to your line sensor. The sockets go on the OPPOSITE side from the sensors, as shown.
+
+<img src="photos/sensor_sockets.jpg" width="300">
+
+
+# Step 12b Add line sensor to chassis
 
 Use your 3/4 inch standoffs to attach the line sensor. 
 
