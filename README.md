@@ -11,11 +11,11 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
 
 # Build the Romi
 
-1) [Wire the Chassis](Esp32RomiWiring.md)
+1) [Wire the Chassis -- 1001 only!](Esp32RomiWiring.md)
 
-1) [Wire the Sensors](wireSensors.md)
+1) Wire the sensors -- new instructions coming soon!
 
-1) [Build the lifting Arm](lifter.md)
+1) [Build the lifting Arm -- 1001 only!](lifter.md)
 
 # RBE1001Lib Documentation
 
@@ -106,7 +106,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
 
   1 x Romi 32U4 Control Board https://www.pololu.com/product/3544
   
-  1 x Romi Battery Contact Set https://www.pololu.com/product/3540
+  ~~1 x Romi Battery Contact Set https://www.pololu.com/product/3540~~ (Control board comes with battery terminals.)
   
   ~~(1) 1x2 socket: https://www.pololu.com/product/1012~~ (Superceded by the screw terminals; you may get one in your kit)
   
@@ -195,17 +195,17 @@ Program the RCCTL example and follow [these instructions to connec to to network
  
 ## 2002 Add On Kit
 
- 1 x Header pack https://www.pololu.com/product/1900
+ 1 x Header pack https://www.pololu.com/product/1900 (comes in packs of 25; each kit needs 4.)
  
  1 x SharpIR Cable https://www.pololu.com/product/1799
  
- (If we're getting anything from SF, https://www.sparkfun.com/products/13685 can replace the previous two items)
+ (https://www.sparkfun.com/products/13685 can replace the previous two items)
  
  1 x SharpIR bracket https://www.pololu.com/product/2677
  
  1 x SharpIR https://www.pololu.com/product/136
  
- 1 x IR sensor https://www.pololu.com/product/2471
+ ~~1 x IR sensor https://www.pololu.com/product/2471~~ included in 2001 kit
  
  
     
