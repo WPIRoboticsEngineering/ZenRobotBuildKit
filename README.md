@@ -195,11 +195,11 @@ Program the RCCTL example and follow [these instructions to connec to to network
  
 ## 2002 Add On Kit
 
- 1 x Header pack https://www.pololu.com/product/1900
+ 1 x Header pack https://www.pololu.com/product/1900 (comes in packs of 25; each kit needs 4.)
  
  1 x SharpIR Cable https://www.pololu.com/product/1799
  
- (If we're getting anything from SF, https://www.sparkfun.com/products/13685 can replace the previous two items)
+ (https://www.sparkfun.com/products/13685 can replace the previous two items)
  
  1 x SharpIR bracket https://www.pololu.com/product/2677
  
