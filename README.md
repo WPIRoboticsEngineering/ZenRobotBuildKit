@@ -106,7 +106,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
 
   1 x Romi 32U4 Control Board https://www.pololu.com/product/3544
   
-  1 x Romi Battery Contact Set https://www.pololu.com/product/3540
+  ~~1 x Romi Battery Contact Set https://www.pololu.com/product/3540~~ (Control board comes with battery terminals.)
   
   ~~(1) 1x2 socket: https://www.pololu.com/product/1012~~ (Superceded by the screw terminals; you may get one in your kit)
   
