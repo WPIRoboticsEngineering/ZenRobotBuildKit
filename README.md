@@ -205,7 +205,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
  
  1 x SharpIR https://www.pololu.com/product/136
  
- 1 x IR sensor https://www.pololu.com/product/2471
+ ~~1 x IR sensor https://www.pololu.com/product/2471~~ included in 2001 kit
  
  
     
