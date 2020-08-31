@@ -6,7 +6,7 @@
 
 <img src="photos/shim/0001.jpg" width="300">
 
-# Step 2 Solder in the 10k Resistor
+# Step 2 Solder in the 1k Resistor
 
 All components -- resistors, diodes, and sockets -- go on the top (silk screen) side of the shim board. 
 
