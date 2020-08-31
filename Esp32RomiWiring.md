@@ -8,7 +8,7 @@
 
 # Step 2 Solder in the 1k Resistor
 
-(A previous version of this had a 10k resistor -- you'll be fine if you used that.)
+(A previous version of this had a 10k resistor -- you should be fine if you used that.)
 
 All components -- resistors, diodes, and sockets -- go on the top (silk screen) side of the shim board. 
 
