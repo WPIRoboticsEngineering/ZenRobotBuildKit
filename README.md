@@ -96,6 +96,8 @@ Program the RCCTL example and follow [these instructions to connec to to network
   1 x Romi Battery Contact Set https://www.pololu.com/product/3540
 
   1 x Custom PCB https://github.com/WPIRoboticsEngineering/1001-romi-processor-shim
+  
+  1 x 1 kOhm resistor (reassigned from Sensors Kit -- only needed for shim board)
 
 ```
   This will be produced and provided by the Robotics Department 
@@ -173,8 +175,6 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x 330 Ohm resistor
 
-  1 x 1 kOhm resistor
-  
   2 x 2.2 kOhm resistor
   
   (1) 1x9 socket: https://www.pololu.com/product/1019 
