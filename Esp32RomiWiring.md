@@ -191,6 +191,8 @@ Use the 1 1/2 inch standoffs in the back to secure the back of the riser plate.
 
 # Step 19 Add the casters
 
+Note that the caster is "sprung" so you will probably want to push on the top of the receptacle for the caster.
+
 <img src="photos/25.jpg" width="300">
 <img src="photos/26.jpg" width="300">
 <img src="photos/27.jpg" width="300">
