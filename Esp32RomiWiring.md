@@ -154,6 +154,8 @@ Put your ESP32 into the sockets in the shim board. Pay close attention to orient
  
 # Step 16 Program the ESP32 with the Encoder Test Example
 
+Place the jumper on the two pins marked ???. This will connect the "sleep" pin to ground so your motors can't spin.
+
 
 Plug the USB back in.  
 
@@ -167,8 +169,6 @@ RBE1001Lib/EncoderTest
 Open the serial monitor after programming. Gently roll the Romi forward and backward (the shim board faces the front) and verify that the wheels count up when rolling forward and down when backwards.
 
 # Step 17 Program the ESP32 with the Motor Test Example
-
-Place the jumper on the two pins marked ???. This will connect the "sleep" pin to ground so your motors can't spin.
 
 Open and upload the example
 
