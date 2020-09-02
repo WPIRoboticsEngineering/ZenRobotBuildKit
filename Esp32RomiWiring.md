@@ -154,7 +154,7 @@ Put your ESP32 into the sockets in the shim board. Pay close attention to orient
  
 # Step 16 Program the ESP32 with the Encoder Test Example
 
-For the Board select
+Under Tools -> Board select
 
 ```
 ESP32 Dev Module
