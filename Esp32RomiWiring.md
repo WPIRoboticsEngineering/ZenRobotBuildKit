@@ -163,6 +163,8 @@ ESP32 Dev Module
 
 Place the jumper on the two pins marked DISABLE MOTOR (as in the front right of the picture below). This will connect the "sleep" pin to ground so your motors can't spin.
 
+Place the jumper on the two pins marked DISABLE MOTOR (as in the front right of the picture below). This will connect the "sleep" pin to ground so your motors won't fight against you when you move them by hand.
+
 <img src="photos/shim/0025.jpg" width="300">
 
 Plug the USB back in.  
