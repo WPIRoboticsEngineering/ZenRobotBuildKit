@@ -154,8 +154,9 @@ Put your ESP32 into the sockets in the shim board. Pay close attention to orient
  
 # Step 16 Program the ESP32 with the Encoder Test Example
 
-Place the jumper on the two pins marked ???. This will connect the "sleep" pin to ground so your motors can't spin.
+Place the jumper on the two pins marked DISABLE MOTOR (as in the front right of the picture below). This will connect the "sleep" pin to ground so your motors can't spin.
 
+<img src="photos/shim/0025.jpg" width="300">
 
 Plug the USB back in.  
 
