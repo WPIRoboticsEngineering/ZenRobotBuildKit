@@ -161,8 +161,6 @@ ESP32 Dev Module
 ```
 
 
-Place the jumper on the two pins marked DISABLE MOTOR (as in the front right of the picture below). This will connect the "sleep" pin to ground so your motors can't spin.
-
 Place the jumper on the two pins marked DISABLE MOTOR (as in the front right of the picture below). This will connect the "sleep" pin to ground so your motors won't fight against you when you move them by hand.
 
 <img src="photos/shim/0025.jpg" width="300">
@@ -176,7 +174,7 @@ Open your IDE of choice and program the example
 RBE1001Lib/EncoderTest
 ```
 
-Open the serial monitor after programming. Gently roll the Romi forward and backward (the shim board faces the front) and verify that the wheels count up when rolling forward and down when backwards.
+Open the serial monitor after programming. Set the baud rate to "115200 baud" (in the lower right of the Serial Monitor). Gently roll the Romi forward and backward (the shim board faces the front) and verify that the wheels count up when rolling forward and down when backwards.
 
 # Step 17 Program the ESP32 with the Motor Test Example
 
