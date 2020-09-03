@@ -181,7 +181,7 @@ Open the serial monitor after programming. Set the baud rate to "115200 baud" (i
 Open and upload the example
 
 ```
-RBE1001Lib/MotorTest
+RBE1001Lib/MotorSpeedTest
 ```
 
 After programming, *pick up your robot* and pull the sleep jumper out of the shim. The motors will start spinning. It may jump if there is a wiring issue, so do not do this with the robot on the table or it may drive off. Pick it up!
