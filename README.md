@@ -193,6 +193,8 @@ Program the RCCTL example and follow [these instructions to connec to to network
  
  1 x infrared detector https://www.pololu.com/product/2471 
  
+ 1 x Diode (NOT IN A20 KIT)
+ 
 ## 2002 Add On Kit
 
  1 x Header pack https://www.pololu.com/product/1900 (comes in packs of 25; each kit needs 4.)
@@ -206,6 +208,8 @@ Program the RCCTL example and follow [these instructions to connec to to network
  1 x SharpIR https://www.pololu.com/product/136
  
  ~~1 x IR sensor https://www.pololu.com/product/2471~~ included in 2001 kit
+ 
+ 
  
  
     
