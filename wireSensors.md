@@ -15,10 +15,4 @@ Connect the middle pin of each socket to your choice of sensors: 1, 3, 5, 7, 9, 
 
 # Servo
 
-Servo Black to Ground
-
-Servo Red to 5v/VUSB
-
-Servo White to GPIO 33
-
-Servo Green to GPIO 34/A2
+The shim board has a 4-pin connector for the servo. Connect the black wire (ground) on the servo cable to the '-' terminal. The red wire will connect to 5V and the white to the signal line (pin 33). Connect the green feedback wire to the last pin, pin 34 (A2).
