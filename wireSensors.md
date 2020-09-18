@@ -2,7 +2,7 @@
 
 The shim board comes with a 4-pin port for connecting your ultrasonic sensor. Using your 4-wire cable connect the sensor to the port. Common practice is to use green for GND and red for power, which matches nicely with the cable.
 
-Unfortunately, due to an oversight (from a change in ESP32 version), the pins that are wired to the ultrasonic don't have the necessary functionality, so you'll need to add wires to connect pin 16 to pin 22 and pin 17 to pin 32. You can just use the sockets in the shim board.
+Unfortunately, due to an oversight (from a change in ESP32 version), the pins that are wired to the ultrasonic don't have the necessary functionality, so you'll need to add wires to connect pin 16 to pin 22 and pin 17 to pin 23. You can just use the sockets in the shim board.
 
 # Line Sensors
 
