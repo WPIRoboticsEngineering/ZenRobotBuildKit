@@ -8,7 +8,7 @@ Unfortunately, due to an oversight (from a change in ESP32 version), the pins th
 
 Your shim board has two 3-pin connectors for line sensors. The arrangement is set up to work with individual line sensors, but it will also work with the line sensor array.
 
-Connect the '+' terminal from one of the line sensor sockets to Vcc on the sensor array. Connect '-' to GND. You do note need to connect the '+' and '-' from the other set of pins.
+Connect the '+' terminal from one of the line sensor sockets to Vcc on the sensor array. Connect '-' to GND. You do not need to connect the '+' and '-' from the other set of pins.
 
 Connect the middle pin of each set to your choice of sensors: labelled 1, 3, 5, 7, 9, or 11 on the sensor array. These correspond to each of the physical sensors on the working side of the sensor array. In the end, you'll want to choose two sensors that are roughly the width of the piece of tape you use for line following, but you can easily try different sensor elements. The sockets are connected to pins 36 (A4) and 39 (A3) on your ESP32.
 
