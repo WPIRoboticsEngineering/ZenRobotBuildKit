@@ -68,9 +68,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
 ## ESP32 Processor Kit
 
   1 x ESP32-DevKitC-VB https://www.digikey.com/product-detail/en/espressif-systems/ESP32-DEVKITC-32D/1965-1000-ND/9356990
-  
-  * Alternate source: https://www.digikey.com/product-detail/en/espressif-systems/ESP32-DEVKITC-32E/1965-ESP32-DEVKITC-32E-ND/12091810
-  
+
   1 x Breadboard https://www.pololu.com/product/4000 (specifically this one, as it has mounting holes)
      
   1 x USB cable https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z
