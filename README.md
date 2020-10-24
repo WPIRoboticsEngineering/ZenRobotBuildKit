@@ -179,6 +179,10 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x potentiometer Digikey PN 3310R-125-103L-ND
   
+  1 x IR receiver: https://www.pololu.com/product/2471 
+
+  1 x IR remote: https://www.pololu.com/product/2777
+  
 ## 2001 Add On kit
 
  1 x Motor With Encoder https://www.sparkfun.com/products/16413
@@ -188,22 +192,20 @@ Program the RCCTL example and follow [these instructions to connec to to network
  1 x transistor Digikey PN: 2N2222ACS-ND 
  
  1 x relay Electronix Express PN: 22RCLR5V
- 
- 1 x infrared detector https://www.pololu.com/product/2471 
- 
+  
  1 x Diode (NOT IN A20 KIT)
  
 ## 2002 Add On Kit
 
- 1 x Header pack https://www.pololu.com/product/1900 (comes in packs of 25; each kit needs 4.)
+ ~~1 x Header pack https://www.pololu.com/product/1900 (comes in packs of 25; each kit needs 4.)~~ superceded by cable below
  
- 1 x SharpIR Cable https://www.pololu.com/product/1799
+ ~~1 x SharpIR Cable https://www.pololu.com/product/1799~~ superceded by cable below
  
- (https://www.sparkfun.com/products/13685 can replace the previous two items)
+ 1 x Cable for Sharp IR sensor: https://www.sparkfun.com/products/13685
  
  1 x SharpIR bracket https://www.pololu.com/product/2677
  
- 1 x SharpIR https://www.pololu.com/product/136
+ 1 x SharpIR proximity sensor https://www.pololu.com/product/136
  
  ~~1 x IR sensor https://www.pololu.com/product/2471~~ included in 2001 kit
  
