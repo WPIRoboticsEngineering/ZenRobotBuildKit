@@ -91,14 +91,16 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x 1x04 Female Header https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPPC041LFBN-RC/S7037-ND/810176
   
-  1 x 1x03 Male HEader https://www.digikey.com/product-detail/en/sullins-connector-solutions/PREC003SAAN-RC/S1012EC-03-ND/2774851
+  1 x 1x03 Male Header https://www.digikey.com/product-detail/en/sullins-connector-solutions/PREC003SAAN-RC/S1012EC-03-ND/2774851
   
   1 x Romi Battery Contact Set https://www.pololu.com/product/3540
 
+  1 x 1 kOhm resistor (reassigned from Sensors Kit -- only needed for shim board)
+  
+  1 x jumper
+
   1 x Custom PCB https://github.com/WPIRoboticsEngineering/1001-romi-processor-shim
   
-  1 x 1 kOhm resistor (reassigned from Sensors Kit -- only needed for shim board)
-
 ```
   This will be produced and provided by the Robotics Department 
   ```
