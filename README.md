@@ -65,7 +65,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   ```alternate   https://www.mouser.com/ProductDetail/Adafruit/1311?qs=GURawfaeGuBbUKgxUfZ%252BxQ%3D%3D```
 
-## ESP32 Processor Kit CD2020
+## ESP32 Processor Kit CD-2021
 
 1 x ESP32-DevKitC-VB https://www.digikey.com/product-detail/en/espressif-systems/ESP32-DEVKITC-32D/1965-1000-ND/9356990
 
@@ -77,7 +77,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
      
 
 
-## ESP32 Processor Kit AB2020
+## ESP32 Processor Kit AB-2020
 
   1 x ESP32-DevKitC-VB https://www.digikey.com/product-detail/en/espressif-systems/ESP32-DEVKITC-32D/1965-1000-ND/9356990
   
