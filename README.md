@@ -159,7 +159,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
   
   1 x 2-56 x 1/4"long https://www.pololu.com/product/1955   
 
-  1 x Servo Digikey 1528-1111-ND
+  1 x Servo with feedback https://www.pololu.com/product/3436
   
   1 x 2-56x 1.25" https://www.mcmaster.com/90272A087
   
