@@ -209,7 +209,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
  
  1 x SharpIR proximity sensor https://www.pololu.com/product/136
   
- 
+ (tentative) 1 x ToF distance sensor: https://www.pololu.com/product/2490
  
  
     
