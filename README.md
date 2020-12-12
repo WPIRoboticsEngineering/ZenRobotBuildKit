@@ -12,7 +12,7 @@ Hold off on installing an IDE. We'll tell you about IDEs in class on Monday. You
 
 [Install VSCode and PlatformIO](https://github.com/WPIRoboticsEngineering/ZenVSCodeInstaller)
 
-## Eclipse Option (Lab Manager Kevins Favorate)
+## Eclipse Option (Lab Manager Kevins Favorate / Industry standard )
 
 [Install arduino for your platform with the ESP32 toolchain set up](https://github.com/WPIRoboticsEngineering/RobotInterfaceBoard/blob/master/InstallEclipse.md)
 
