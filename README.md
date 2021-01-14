@@ -75,7 +75,7 @@ Program the RCCTL example and follow [these instructions to connec to to network
 
 1 x ESP32-DevKitC-VB https://www.digikey.com/product-detail/en/espressif-systems/ESP32-DEVKITC-32D/1965-1000-ND/9356990
 
-1 x ZenDriver board (Provided by B Star contract manufacturer)
+1 x ZenDriver board (Provided by B Star contract manufacturer) https://shop.bstarengineering.com/
 
 1 x USB cable https://www.amazon.com/NetDot-Magnetic-Charging-Transfer-Compatible/dp/B07QDS3CHN bought in packs of 3
 
