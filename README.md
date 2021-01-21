@@ -4,34 +4,36 @@ Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
 
 <img src="photos/allDone.jpg" width="300">
 
-# Set Up Our Version of Arduino
+# Set Up An IDE
 
-Hold off on installing an IDE. We'll tell you about IDEs in class on Monday. You can start soldering and building.
+Instructions for setting up an IDE will be provided in class.
 
-## VSCode Option 
+```## VSCode Option ```
 
-[Install VSCode and PlatformIO](https://github.com/WPIRoboticsEngineering/ZenVSCodeInstaller)
+```[Install VSCode and PlatformIO](https://github.com/WPIRoboticsEngineering/ZenVSCodeInstaller)```
 
-## Eclipse Option
+```## Eclipse Option```
 
-[Install arduino for your platform with the ESP32 toolchain set up](https://github.com/WPIRoboticsEngineering/RobotInterfaceBoard/blob/master/InstallEclipse.md)
+```[Install arduino for your platform with the ESP32 toolchain set up](https://github.com/WPIRoboticsEngineering/RobotInterfaceBoard/blob/master/InstallEclipse.md)```
 
 
 # Build the Romi
 
-1) [Wire the Chassis -- 1001 only!](Esp32RomiWiring.md)
+Instructions will be provided in class.
 
-1) [Wire the sensors -- 1001 only!](wireSensors.md)
+```1) [Wire the Chassis -- 1001 only!](Esp32RomiWiring.md)```
 
-1) [Build the lifting Arm -- 1001 only!](lifter.md)
+```1) [Wire the sensors -- 1001 only!](wireSensors.md)```
+
+```1) [Build the lifting Arm -- 1001 only!](lifter.md)```
 
 # RBE1001Lib Documentation
 
 [RBE1001Lib Doxygen page](https://wpiroboticsengineering.github.io/RBE1001Lib/annotated.html)
 
-# Connect to Wifi
+```# Connect to Wifi```
 
-Program the RCCTL example and follow [these instructions to connec to to network](https://github.com/madhephaestus/Esp32WifiManager#connect-to-wifi-network)
+```Program the RCCTL example and follow [these instructions to connec to to network](https://github.com/madhephaestus/Esp32WifiManager#connect-to-wifi-network)```
 
 # BOM Source
 
