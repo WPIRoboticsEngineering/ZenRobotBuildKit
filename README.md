@@ -3,7 +3,7 @@
 Zen robotics build kit is a robot build system. Here are the BOM and CAD models.
 
 <img src="photos/allDone.jpg" width="300">
-
+<img src="https://github.com/WPIRoboticsEngineering/ZenDriver/blob/master/ZenDriver-Pinouts.png" width="600">
 # Set Up An IDE
 
 Instructions for setting up an IDE will be provided in class.
