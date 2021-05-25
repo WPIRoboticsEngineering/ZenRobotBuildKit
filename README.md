@@ -139,7 +139,7 @@ Instructions will be provided in class.
   
   1 x #3531 Romi Chassis Ball Caster Kit = 2.95 (color unimportant)
   
-  1 x #1944 Aluminum Standoff: 1", 2-56 thread (4-pack): https://www.pololu.com/product/1944
+  1 x #1944 Aluminum Standoff: 1 1/4", 2-56 thread (4-pack): https://www.pololu.com/product/1945
   
   1 x #1943 Aluminum Standoff: 3/4", 2-56 thread (4-pack): https://www.pololu.com/product/1943
 
